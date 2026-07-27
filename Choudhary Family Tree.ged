@@ -1,0 +1,6187 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Choudhary Family Tree
+3 RIN 22036203
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 26 Jul 2026
+2 TIME 15:58:00
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I1173617600@ INDI
+1 NAME Ravi /Choudhary/
+2 GIVN Ravi
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F26@
+1 BIRT
+2 DATE 02/10/1963
+2 PLAC Calcutta, West Bengal, India
+1 BIRT
+2 DATE 2 Oct 1963
+2 PLAC Kolkata, West Bengal, India
+1 ADDR
+2 PLAC Kolkata, West Bengal, India
+2 NOTE 42/1, Strand road 2nd floor,
+1 EMAIL rc1943@@gmail.com
+2 PLAC kolkata
+1 _EMPLOY
+2 PLAC kolkata
+2 NOTE Eastern Copper Manufacturing Co Pvt Ltd
+1 RESI
+2 PLAC Kolkata, West Bengal, India
+2 NOTE 13/1, Hurdutta Rai chamaria road Howrah 711101
+1 EVEN
+2 TYPE Web Address
+2 PLAC Kolkata, West Bengal, India
+2 NOTE www.easterncoppercalcutta.com
+1 _WLNK
+2 TITL Eastern Copper 
+2 NOTE http://www.easterncoppercalcutta.com
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Ravi Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/612515182
+1 OBJE @O79@
+2 _PRIM Y
+1 OBJE @O53@
+0 @I1173617601@ INDI
+1 NAME Ram Gopal /Choudhary/
+2 GIVN Ram Gopal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F25@
+1 BIRT
+2 PLAC Calcutta, West Bengal, India
+1 OBJE @O64@
+2 _PRIM Y
+1 OBJE @O52@
+0 @I1173652003@ INDI
+1 NAME Madalsa /Tharad/
+2 GIVN Madalsa
+2 SURN Tharad
+1 SEX F
+1 FAMC @F52@
+1 FAMC @F6@
+1 FAMS @F25@
+1 BIRT
+2 PLAC Calcutta, West Bengal, India
+1 DEAT
+2 DATE 19/10/2010
+2 PLAC Calcutta, West Bengal, India
+1 OBJE @O54@
+2 _PRIM Y
+1 OBJE @O130@
+1 OBJE @O131@
+1 OBJE @O32@
+0 @I1173654325@ INDI
+1 NAME Anuradha /Patodia/
+2 GIVN Anuradha
+2 SURN Patodia
+1 SEX F
+1 FAMC @F34@
+1 FAMS @F26@
+1 BIRT
+2 DATE 11/08/1966
+2 PLAC Calcutta, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Anuradha Patodia Chowdhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1167908212
+1 OBJE @O1@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 325
+3 _WDTH 2100
+3 _HGHT 2100
+3 _TYPE primary
+0 @I1173655214@ INDI
+1 NAME Tanmay /Chowdhary/
+2 GIVN Tanmay
+2 SURN Chowdhary
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 6 Jan 1990
+2 PLAC Calcutta, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Tanmay Chowdhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/626315051
+1 OBJE @O42@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 17
+3 _WDTH 1020
+3 _HGHT 1020
+3 _TYPE primary
+0 @I1173658308@ INDI
+1 NAME Tanvi /Choudhary/ Miss
+2 GIVN Tanvi
+2 SURN Choudhary
+2 NSFX Miss
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 18 Oct 1995
+2 PLAC Calcutta, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Tanvi Chowdhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/643441777
+1 OBJE @O140@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 83
+3 _WDTH 894
+3 _HGHT 894
+3 _TYPE primary
+0 @I1173658994@ INDI
+1 NAME Sri Kishan /Choudhary/
+2 GIVN Sri Kishan
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F23@
+1 BIRT
+2 PLAC Calcutta
+1 DEAT
+2 PLAC Calcutta
+1 OBJE @O136@
+2 _PRIM Y
+1 OBJE @O25@
+1 OBJE @O129@
+1 OBJE @O86@
+1 OBJE @O122@
+0 @I1173661403@ INDI
+1 NAME Rukmani devi /Kanoria/
+2 GIVN Rukmani devi
+2 SURN Kanoria
+1 SEX F
+1 FAMC @F53@
+1 FAMS @F23@
+1 BIRT
+2 PLAC Calcutta, West Bengal, India
+1 DEAT
+2 PLAC Calcutta, West Bengal, India
+1 OBJE @O78@
+2 _PRIM Y
+1 OBJE @O50@
+0 @I28433800669@ INDI
+1 NAME Sajan Kumar  /Choudhary/
+2 GIVN Sajan Kumar 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F9@
+1 OBJE @O134@
+2 _PRIM Y
+1 OBJE @O121@
+0 @I28433800675@ INDI
+1 NAME Ratan Kumar /Choudhary/
+2 GIVN Ratan Kumar
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F22@
+0 @I28433800710@ INDI
+1 NAME Gita Devi /Garodia/
+2 GIVN Gita Devi
+2 SURN Garodia
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F31@
+1 FAMS @F97@
+1 OBJE @O38@
+2 _PRIM Y
+0 @I28433801090@ INDI
+1 NAME Nehal /Bagla/
+2 GIVN Nehal
+2 SURN Bagla
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Nehal Bagla - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100002977201753
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Nehal Bagla - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100002977201753
+1 FAMC @F103@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Nehal Bagla - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100002977201753
+0 @I28433801091@ INDI
+1 NAME Radhica /Patodia/
+2 GIVN Radhica
+2 SURN Patodia
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Radhica Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100000201072952
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Radhica Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100000201072952
+1 FAMC @F37@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Radhica Patodia - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100000201072952
+0 @I28433801092@ INDI
+1 NAME Ramesh  /Patodia/
+2 GIVN Ramesh 
+2 SURN Patodia
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F37@
+0 @I28433801093@ INDI
+1 NAME Mitu /Gutgutia/
+2 GIVN Mitu
+2 SURN Gutgutia
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Mitu Gutgutia Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1033200682
+1 FAMS @F37@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Mitu Gutgutia Patodia - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1033200682
+0 @I28433801094@ INDI
+1 NAME Pritish /Choudhary/
+2 GIVN Pritish
+2 SURN Choudhary
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Pritish Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/730505978
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Pritish Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/730505978
+1 FAMC @F36@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Pritish Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/730505978
+0 @I28433801095@ INDI
+1 NAME Anuj /Choudhary/
+2 GIVN Anuj
+2 SURN Choudhary
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anuj Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/740930434
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anuj Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/740930434
+1 FAMC @F9@
+1 FAMS @F36@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Anuj Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/740930434
+0 @I28433801096@ INDI
+1 NAME Ekta //
+2 GIVN Ekta
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Ekta Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100000812718052
+1 FAMC @F99@
+1 FAMS @F36@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Ekta Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100000812718052
+0 @I28433801097@ INDI
+1 NAME Chandiprasad /Patodia/
+2 GIVN Chandiprasad
+2 SURN Patodia
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Chandiprasad Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1554311662
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Chandiprasad Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1554311662
+1 FAMC @F101@
+1 FAMS @F34@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Chandiprasad Patodia - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1554311662
+0 @I28433801098@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F103@
+0 @I28433801609@ INDI
+1 NAME Vimal /Dharnidharka/
+2 GIVN Vimal
+2 SURN Dharnidharka
+1 SEX F
+1 FAMC @F102@
+1 FAMS @F34@
+0 @I28433801610@ INDI
+1 NAME Karan /Goenka/
+2 GIVN Karan
+2 SURN Goenka
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Karan Goenka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/728685010
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Karan Goenka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/728685010
+1 FAMC @F32@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Karan Goenka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/728685010
+0 @I28433801611@ INDI
+1 NAME Anil /Goenka/
+2 GIVN Anil
+2 SURN Goenka
+1 SEX M
+1 FAMS @F32@
+1 OBJE @O120@
+2 _PRIM Y
+1 OBJE @O91@
+0 @I28433801612@ INDI
+1 NAME Ritu /Goenka/
+2 GIVN Ritu
+2 SURN Goenka
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Ritu Choudhary Goenka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001180596374
+1 FAMC @F25@
+1 FAMS @F32@
+1 BIRT
+2 DATE 08/10/1967
+2 PLAC Calcutta, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Ritu Choudhary Goenka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100001180596374
+1 OBJE @O95@
+2 _PRIM Y
+0 @I28433801613@ INDI
+1 NAME Nitish /Goenka/
+2 GIVN Nitish
+2 SURN Goenka
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Nitish Goenka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/539227989
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Nitish Goenka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/539227989
+1 FAMC @F32@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Nitish Goenka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/539227989
+0 @I28433801614@ INDI
+1 NAME Pratyush /Patodia/
+2 GIVN Pratyush
+2 SURN Patodia
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Pratyush Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/639798715
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Pratyush Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/639798715
+1 FAMC @F37@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Pratyush Patodia - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/639798715
+0 @I28433801615@ INDI
+1 NAME Komal /Choudhary/
+2 GIVN Komal
+2 SURN Choudhary
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Komal Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1719767851
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Komal Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1719767851
+1 FAMC @F36@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Komal Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1719767851
+0 @I28433801616@ INDI
+1 NAME Tanisha /Choudhary/
+2 GIVN Tanisha
+2 SURN Choudhary
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Tanisha Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001710474223
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Tanisha Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001710474223
+1 FAMC @F44@
+1 BIRT
+2 DATE 9 Jan 1999
+2 PLAC Kolkata, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Tanisha Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100001710474223
+1 OBJE @O65@
+2 _PRIM Y
+0 @I28433801617@ INDI
+1 NAME Rajiv /Choudhary/
+2 GIVN Rajiv
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F44@
+0 @I28433801618@ INDI
+1 NAME Suruchi  /Choudhary/
+2 GIVN Suruchi 
+2 SURN Choudhary
+1 SEX F
+1 FAMS @F44@
+0 @I28433801619@ INDI
+1 NAME Anirudh /Bagla/
+2 GIVN Anirudh
+2 SURN Bagla
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anirudh Bagla - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001844689258
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anirudh Bagla - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001844689258
+1 FAMC @F42@
+1 FAMS @F43@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Anirudh Bagla - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100001844689258
+0 @I28433801620@ INDI
+1 NAME Archana /Bagla/
+2 GIVN Archana
+2 SURN Bagla
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Archana Choudhary Bagla - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100001866464512
+1 FAMC @F9@
+1 FAMS @F42@
+1 BIRT
+2 DATE 18 Jan 1964
+2 PLAC Kolkata, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Archana Choudhary Bagla - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100001866464512
+1 OBJE @O145@
+2 _PRIM Y
+0 @I28433801621@ INDI
+1 NAME Manish /Choudhary/
+2 GIVN Manish
+2 SURN Choudhary
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Manish Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/825955531
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Manish Choudhary - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/825955531
+1 FAMC @F22@
+1 FAMS @F4@
+1 BIRT
+2 DATE Apr 1970
+2 PLAC Kolkata, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Manish Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/825955531
+1 OBJE @O146@
+2 _PRIM Y
+0 @I28433801622@ INDI
+1 NAME Dipa  /Jitani/
+2 GIVN Dipa 
+2 SURN Jitani
+1 SEX F
+1 FAMS @F22@
+1 OBJE @O89@
+2 _PRIM Y
+1 OBJE @O17@
+0 @I28433801623@ INDI
+1 NAME Krishna /Patodia/
+2 GIVN Krishna
+2 SURN Patodia
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Krishna Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100000643755746
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Krishna Patodia - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/100000643755746
+1 FAMC @F106@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Krishna Patodia - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100000643755746
+0 @I28433801624@ INDI
+1 NAME Ashish /Dharnidharka/
+2 GIVN Ashish
+2 SURN Dharnidharka
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Ashish Dharnidharka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1055298708
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Ashish Dharnidharka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1055298708
+1 FAMC @F105@
+1 FAMS @F41@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Ashish Dharnidharka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1055298708
+0 @I28433801625@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX M
+1 FAMS @F102@
+0 @I28433801626@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX M
+1 FAMC @F102@
+1 FAMS @F105@
+0 @I28433801627@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX M
+1 FAMC @F101@
+1 FAMS @F106@
+0 @I28433801628@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX M
+1 FAMS @F101@
+0 @I28433802018@ INDI
+1 NAME Smita /Kanodia/
+2 GIVN Smita
+2 SURN Kanodia
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Smita Kanodia Dharnidharka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1148062687
+1 FAMS @F41@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Smita Kanodia Dharnidharka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1148062687
+0 @I28433802019@ INDI
+1 NAME Anita /Dharnidharka/
+2 GIVN Anita
+2 SURN Dharnidharka
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anita Dharnidharka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1121243012
+1 SEX F
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Anita Dharnidharka - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1121243012
+1 FAMS @F74@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Anita Dharnidharka - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1121243012
+0 @I28433802020@ INDI
+1 NAME Shirish /Dharnidharka/
+2 GIVN Shirish
+2 SURN Dharnidharka
+1 SEX M
+1 FAMC @F105@
+1 FAMS @F74@
+0 @I28433802048@ INDI
+1 NAME Vidya Devi //
+2 GIVN Vidya Devi
+1 SEX F
+1 FAMS @F9@
+1 OBJE @O73@
+2 _PRIM Y
+1 OBJE @O18@
+0 @I28433802181@ INDI
+1 NAME Shalvi  /Modi/
+2 GIVN Shalvi 
+2 SURN Modi
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 5 Aug 1975
+2 PLAC Kolkata, West Bengal, India
+1 DEAT
+2 DATE 29 Oct 2021
+2 PLAC Mumbai, Maharashtra, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Shalvi Modi Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100004087875465
+1 OBJE @O6@
+2 _PRIM Y
+0 @I28433802307@ INDI
+1 NAME Ashray /Choudhary/
+2 GIVN Ashray
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F4@
+0 @I28433802763@ INDI
+1 NAME Ashis /Choudhary/
+2 GIVN Ashis
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F70@
+1 OBJE @O128@
+2 _PRIM Y
+1 OBJE @O22@
+0 @I28433802772@ INDI
+1 NAME Ankur /Choudhary/
+2 GIVN Ankur
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F40@
+1 OBJE @O104@
+2 _PRIM Y
+1 OBJE @O143@
+1 OBJE @O90@
+0 @I28433802793@ INDI
+1 NAME Sonia /Burman/
+2 GIVN Sonia
+2 SURN Burman
+1 SEX F
+1 FAMS @F70@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Sonia Choudhary - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/100002671320261
+0 @I28433802907@ INDI
+1 NAME Sresta /Bajoria/
+2 GIVN Sresta
+2 SURN Bajoria
+1 SEX F
+1 FAMS @F40@
+1 OBJE @O58@
+2 _PRIM Y
+1 OBJE @O55@
+0 @I28433803009@ INDI
+1 NAME Pranati /Choudhary/
+2 GIVN Pranati
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F70@
+1 BIRT
+2 DATE 8 Nov 2004
+1 OBJE @O132@
+2 _PRIM Y
+1 OBJE @O71@
+1 OBJE @O116@
+0 @I28433803029@ INDI
+1 NAME Pranit /Choudhary/
+2 GIVN Pranit
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F70@
+1 OBJE @O141@
+2 _PRIM Y
+1 OBJE @O67@
+0 @I28433803094@ INDI
+1 NAME Divij /Choudhary/
+2 GIVN Divij
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F44@
+1 BIRT
+2 DATE 19 Oct 2002
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O144@
+2 _PRIM Y
+0 @I28433803242@ INDI
+1 NAME Jitendra /Agrawal/
+2 GIVN Jitendra
+2 SURN Agrawal
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Jitendra Agrawal - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1491030435
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Jitendra Agrawal - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/1491030435
+1 FAMC @F99@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Jitendra Agrawal - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/1491030435
+0 @I28433803243@ INDI
+1 NAME Shivendra /Agarwal/
+2 GIVN Shivendra
+2 SURN Agarwal
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Shivendra Agarwal - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/761069714
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE Facebook update - Shivendra Agarwal - 10/12/2014
+3 DATA
+4 DATE 10/12/2014
+4 WWW http://www.facebook.com/761069714
+1 FAMC @F99@
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Shivendra Agarwal - 10/12/2014
+2 DATA
+3 DATE 10/12/2014
+3 WWW http://www.facebook.com/761069714
+0 @I28433803244@ INDI
+1 NAME /?/
+2 SURN ?
+1 SEX M
+1 FAMS @F99@
+0 @I28433803713@ INDI
+1 NAME Phul Chand /Choudhary/
+2 GIVN Phul Chand
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F7@
+1 BIRT
+2 DATE 5 Feb 1885
+2 PLAC Village Gawar , Hissar, Haryana, India
+1 DEAT
+2 DATE 29.04.1932
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O13@
+2 _PRIM Y
+0 @I28433803768@ INDI
+1 NAME Radha Kishan  /Choudhary/
+2 GIVN Radha Kishan 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F28@
+1 OBJE @O150@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 88
+3 _TOP 47
+3 _WDTH 593
+3 _HGHT 593
+3 _TYPE primary
+1 OBJE @O99@
+1 OBJE @O66@
+1 OBJE @O14@
+0 @I28433803789@ INDI
+1 NAME Gita Devi  /Poddar/
+2 GIVN Gita Devi 
+2 SURN Poddar
+1 SEX F
+1 FAMC @F68@
+1 FAMS @F28@
+1 OBJE @O36@
+2 _PRIM Y
+1 OBJE @O111@
+0 @I28433803811@ INDI
+1 NAME Om Prakesh  /Choudhary/
+2 GIVN Om Prakesh 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F73@
+1 OBJE @O113@
+2 _PRIM Y
+0 @I28433803830@ INDI
+1 NAME Nand Kishor  /Choudhary/
+2 GIVN Nand Kishor 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F35@
+1 OBJE @O96@
+2 _PRIM Y
+1 OBJE @O138@
+0 @I28433803864@ INDI
+1 NAME Savitri /Choudhary/
+2 GIVN Savitri
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F86@
+0 @I28433803889@ INDI
+1 NAME Sushila /Choudhary/
+2 GIVN Sushila
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F87@
+1 OBJE @O125@
+2 _PRIM Y
+0 @I28433803912@ INDI
+1 NAME Sita /Choudhary/
+2 GIVN Sita
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F93@
+1 OBJE @O98@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 116
+3 _TOP 0
+3 _WDTH 616
+3 _HGHT 616
+3 _TYPE primary
+0 @I28433803996@ INDI
+1 NAME Dalooram /Choudhary/
+2 GIVN Dalooram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F10@
+0 @I28433804066@ INDI
+1 NAME Tansukhi Devi  /Fatehpuria/
+2 GIVN Tansukhi Devi 
+2 SURN Fatehpuria
+1 SEX F
+1 FAMC @F114@
+1 FAMS @F7@
+1 DEAT
+2 DATE 23.06.1965
+2 PLAC Calcutta, West Bengal, India
+1 OBJE @O21@
+2 _PRIM Y
+1 OBJE @O59@
+0 @I28433804129@ INDI
+1 NAME Tulip /Choudhary/
+2 GIVN Tulip
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F73@
+1 FAMS @F64@
+1 OBJE @O26@
+2 _PRIM Y
+0 @I28433804134@ INDI
+1 NAME Smita /Choudhary/
+2 GIVN Smita
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F73@
+1 FAMS @F113@
+1 OBJE @O77@
+2 _PRIM Y
+0 @I28433804138@ INDI
+1 NAME Rahul /Choudhary/
+2 GIVN Rahul
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F73@
+1 FAMS @F27@
+1 OBJE @O94@
+2 _PRIM Y
+1 OBJE @O142@
+0 @I28433804169@ INDI
+1 NAME Padma /Ganeriwal/
+2 GIVN Padma
+2 SURN Ganeriwal
+1 SEX F
+1 FAMS @F35@
+0 @I28433804222@ INDI
+1 NAME Aditi /Choudhary/
+2 GIVN Aditi
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F35@
+0 @I28433804305@ INDI
+1 NAME Indu Devi /Bhuwania/
+2 GIVN Indu Devi
+2 SURN Bhuwania
+1 SEX F
+1 FAMS @F73@
+1 OBJE @O108@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 31
+3 _TOP 33
+3 _WDTH 205
+3 _HGHT 205
+3 _TYPE primary
+1 OBJE @O135@
+1 OBJE @O8@
+0 @I28433804324@ INDI
+1 NAME Ravi  /Drolia/
+2 GIVN Ravi 
+2 SURN Drolia
+1 SEX M
+1 FAMS @F64@
+1 OBJE @O110@
+2 _PRIM Y
+1 OBJE @O19@
+0 @I28433804896@ INDI
+1 NAME Nidhi  /Sawalka/
+2 GIVN Nidhi 
+2 SURN Sawalka
+1 SEX F
+1 FAMC @F87@
+0 @I28433804944@ INDI
+1 NAME Shakuntala /Choudhary/
+2 GIVN Shakuntala
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F83@
+1 OBJE @O149@
+2 _PRIM Y
+0 @I28433804962@ INDI
+1 NAME Pankaj /Agarwal/
+2 GIVN Pankaj
+2 SURN Agarwal
+1 SEX M
+1 FAMC @F83@
+1 BIRT
+2 DATE 04/07/1977
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Pankaj Agarwal - 10/13/2014
+2 DATA
+3 DATE 10/13/2014
+3 WWW http://www.facebook.com/767860050
+0 @I28433805623@ INDI
+1 NAME Gulzarilal /Poddar/
+2 GIVN Gulzarilal
+2 SURN Poddar
+1 SEX M
+1 FAMS @F68@
+1 OBJE @O117@
+0 @I28433805649@ INDI
+1 NAME Bakke  /Poddar/
+2 GIVN Bakke 
+2 SURN Poddar
+1 SEX M
+1 FAMC @F68@
+1 FAMS @F63@
+0 @I28433805666@ INDI
+1 NAME Chanda  /Saraf/
+2 GIVN Chanda 
+2 SURN Saraf
+1 SEX F
+1 FAMS @F63@
+0 @I28433805723@ INDI
+1 NAME Dipak /Poddar/
+2 GIVN Dipak
+2 SURN Poddar
+1 SEX M
+1 FAMC @F63@
+0 @I28433805941@ INDI
+1 NAME Rajo /Choudhary Kejriwal/
+2 GIVN Rajo
+2 SURN Choudhary Kejriwal
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F77@
+1 BIRT
+2 DATE 7 Oct 1944
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O105@
+2 _PRIM Y
+1 OBJE @O82@
+1 OBJE @O40@
+0 @I28433805965@ INDI
+1 NAME Shree Bhagwan  /Garodia/
+2 GIVN Shree Bhagwan 
+2 SURN Garodia
+1 SEX M
+1 FAMS @F31@
+1 OBJE @O34@
+2 _PRIM Y
+1 OBJE @O60@
+0 @I28433806007@ INDI
+1 NAME Suresh /Garodia/
+2 GIVN Suresh
+2 SURN Garodia
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F55@
+1 BIRT
+2 DATE 16 Apr
+1 OBJE @O35@
+2 _PRIM Y
+0 @I28433806022@ INDI
+1 NAME Ashok /Garodia/
+2 GIVN Ashok
+2 SURN Garodia
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F3@
+1 OBJE @O9@
+2 _PRIM Y
+1 OBJE @O139@
+0 @I28433806039@ INDI
+1 NAME Sanjay /Garodia/
+2 GIVN Sanjay
+2 SURN Garodia
+1 SEX M
+1 FAMC @F31@
+1 OBJE @O56@
+2 _PRIM Y
+1 OBJE @O39@
+0 @I28433806053@ INDI
+1 NAME Sandeep /Garodia/
+2 GIVN Sandeep
+2 SURN Garodia
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F21@
+1 OBJE @O152@
+2 _PRIM Y
+1 OBJE @O88@
+1 OBJE @O119@
+1 OBJE @O107@
+0 @I28433806059@ INDI
+1 NAME Nilam /Garodia/
+2 GIVN Nilam
+2 SURN Garodia
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F16@
+1 OBJE @O114@
+2 _PRIM Y
+0 @I28433806284@ INDI
+1 NAME Ashana /Drolia/
+2 GIVN Ashana
+2 SURN Drolia
+1 SEX F
+1 FAMC @F64@
+1 OBJE @O115@
+2 _PRIM Y
+1 OBJE @O51@
+0 @I28433806423@ INDI
+1 NAME Amit  /Poddar/
+2 GIVN Amit 
+2 SURN Poddar
+1 SEX M
+1 FAMC @F86@
+1 FAMS @F39@
+1 OBJE @O45@
+2 _PRIM Y
+1 OBJE @O3@
+0 @I28433806457@ INDI
+1 NAME Sheelam  /Poddar/
+2 GIVN Sheelam 
+2 SURN Poddar
+1 SEX F
+1 FAMC @F86@
+1 FAMS @F47@
+1 OBJE @O137@
+2 _PRIM Y
+1 OBJE @O61@
+0 @I28433806585@ INDI
+1 NAME Neelam /Bedia/
+2 GIVN Neelam
+2 SURN Bedia
+1 SEX F
+1 FAMS @F27@
+1 OBJE @O68@
+2 _PRIM Y
+0 @I28433819882@ INDI
+1 NAME Sisir  /Kejriwal/
+2 GIVN Sisir 
+2 SURN Kejriwal
+2 SOUR @S_929908117@
+3 PAGE facebook
+1 SEX M
+2 SOUR @S_929908117@
+3 PAGE facebook
+1 FAMC @F77@
+1 FAMC @F78@
+1 FAMS @F18@
+1 BIRT
+2 DATE 26 Apr 1963
+2 PLAC Kolkata, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE facebook
+1 OBJE @O44@
+2 _PRIM Y
+0 @I28433819990@ INDI
+1 NAME Kamini //
+2 GIVN Kamini
+1 SEX F
+1 FAMS @F18@
+0 @I28433820028@ INDI
+1 NAME Aryaman /Kejriwal/
+2 GIVN Aryaman
+2 SURN Kejriwal
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F67@
+1 FAMS @F95@
+1 BIRT
+2 DATE 21 Dec 1988
+2 PLAC kol
+1 OBJE @O84@
+2 _PRIM Y
+0 @I28433821044@ INDI
+1 NAME Kavita /Garodia/
+2 GIVN Kavita
+2 SURN Garodia
+2 SOUR
+3 PAGE Kavita Gadodia
+1 SEX F
+2 SOUR
+3 PAGE Kavita Gadodia
+1 FAMS @F21@
+1 BIRT
+2 DATE 21/11/1966
+2 SOUR
+3 PAGE Kavita Gadodia
+1 SOUR
+2 PAGE Kavita Gadodia
+1 OBJE @O75@
+2 _PRIM Y
+1 OBJE @O70@
+0 @I28433821259@ INDI
+1 NAME Niru //
+2 GIVN Niru
+1 SEX F
+1 FAMS @F3@
+1 OBJE @O30@
+2 _PRIM Y
+1 OBJE @O16@
+0 @I28433822277@ INDI
+1 NAME Sumeet  /Garodia/
+2 GIVN Sumeet 
+2 SURN Garodia
+1 SEX M
+1 FAMC @F55@
+0 @I28433822308@ INDI
+1 NAME Shilpi /Garodia/
+2 GIVN Shilpi
+2 SURN Garodia
+1 SEX F
+1 FAMC @F55@
+1 FAMS @F45@
+1 BIRT
+2 DATE 18/03/1982
+2 PLAC Ranchi, Jharkhand, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Shilpi Garodia Saraf - 10/13/2014
+2 DATA
+3 DATE 10/13/2014
+3 WWW http://www.facebook.com/1763901999
+0 @I28433822354@ INDI
+1 NAME Roshan  /Saraf/
+2 GIVN Roshan 
+2 SURN Saraf
+1 SEX M
+1 FAMS @F45@
+0 @I28433822725@ INDI
+1 NAME Swati  /Kejriwal/
+2 GIVN Swati 
+2 SURN Kejriwal
+1 SEX F
+1 FAMC @F77@
+1 FAMC @F78@
+1 FAMS @F71@
+1 FAMS @F92@
+1 BIRT
+2 DATE 21 Jul 1970
+2 PLAC Calcutta, West Bengal, India
+1 SOUR @S_929908117@
+2 PAGE Facebook update - Swati Kejriwal Tibrewal - 10/13/2014
+2 DATA
+3 DATE 10/13/2014
+3 WWW http://www.facebook.com/100000782511668
+1 OBJE @O76@
+2 _PRIM Y
+0 @I28433822752@ INDI
+1 NAME Amit /Tibrewal/
+2 GIVN Amit
+2 SURN Tibrewal
+1 SEX M
+1 FAMS @F71@
+1 BIRT
+2 DATE 12 Apr 1968
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O31@
+2 _PRIM Y
+0 @I28433822887@ INDI
+1 NAME Beni Prasad /Kejriwal/
+2 GIVN Beni Prasad
+2 SURN Kejriwal
+1 SEX M
+1 FAMS @F78@
+1 DEAT
+2 PLAC Calcutta, West Bengal, India
+0 @I28433867854@ INDI
+1 NAME Beni Prasad /Kejriwal/
+2 GIVN Beni Prasad
+2 SURN Kejriwal
+1 SEX M
+0 @I28434530160@ INDI
+1 NAME Hardeyee Devi //
+2 GIVN Hardeyee Devi
+1 SEX F
+1 FAMS @F10@
+0 @I28434530197@ INDI
+1 NAME Sita Ram  /Choudhary/
+2 GIVN Sita Ram 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+1 FAMS @F75@
+0 @I28434530232@ INDI
+1 NAME Rup Ram /Choudhary/
+2 GIVN Rup Ram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F104@
+1 FAMS @F80@
+0 @I28434530350@ INDI
+1 NAME Dungarmal /Choudhary/
+2 GIVN Dungarmal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530420@ INDI
+1 NAME Sewaram /Choudhary/
+2 GIVN Sewaram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530432@ INDI
+1 NAME Gaadsee Ram /Choudhary/
+2 GIVN Gaadsee Ram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530464@ INDI
+1 NAME Gulab Chand /Choudhary/
+2 GIVN Gulab Chand
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530574@ INDI
+1 NAME Ishewar das /Choudhary/
+2 GIVN Ishewar das
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530579@ INDI
+1 NAME Khushaal Chand /Choudhary/
+2 GIVN Khushaal Chand
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+0 @I28434530655@ INDI
+1 NAME Neetram /Choudhary/
+2 GIVN Neetram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F80@
+1 FAMS @F79@
+0 @I28434530685@ INDI
+1 NAME Shivdutt Rai /Choudhary/
+2 GIVN Shivdutt Rai
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F96@
+0 @I28434530719@ INDI
+1 NAME Ramprasad  /Choudhary/
+2 GIVN Ramprasad 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F115@
+0 @I28434530731@ INDI
+1 NAME Hanumant Rai /Choudhary/
+2 GIVN Hanumant Rai
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F94@
+0 @I28434530848@ INDI
+1 NAME Jagganath /Choudhary/
+2 GIVN Jagganath
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F96@
+1 FAMS @F54@
+0 @I28434530861@ INDI
+1 NAME Biswanath /Choudhary/
+2 GIVN Biswanath
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F54@
+1 FAMS @F72@
+0 @I28434530970@ INDI
+1 NAME Pawan  /Choudhary/
+2 GIVN Pawan 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F15@
+0 @I28434531000@ INDI
+1 NAME Raj Kumar /Choudhary/
+2 GIVN Raj Kumar
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F49@
+0 @I28434531091@ INDI
+1 NAME Saheeram /Choudhary/
+2 GIVN Saheeram
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F115@
+1 FAMS @F100@
+0 @I28434531124@ INDI
+1 NAME Mohanlal /Choudhary/
+2 GIVN Mohanlal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F115@
+1 FAMS @F98@
+0 @I28434531186@ INDI
+1 NAME Mahaveer Prasad /Choudhary/
+2 GIVN Mahaveer Prasad
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F100@
+0 @I28434531222@ INDI
+1 NAME Ashok Kumar /Choudhary/
+2 GIVN Ashok Kumar
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F100@
+0 @I28434531269@ INDI
+1 NAME Manoj Kumar /Choudhary/
+2 GIVN Manoj Kumar
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F98@
+0 @I28434531284@ INDI
+1 NAME Pradeep Kumar /Choudhary/
+2 GIVN Pradeep Kumar
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F98@
+0 @I28434531331@ INDI
+1 NAME Chiranjee Lal /Choudhary/
+2 GIVN Chiranjee Lal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F94@
+1 FAMS @F50@
+1 FAMS @F85@
+0 @I28434531351@ INDI
+1 NAME Badrinarayan /Choudhary/
+2 GIVN Badrinarayan
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F85@
+0 @I28434531433@ INDI
+1 NAME Lalchand /Choudhary/
+2 GIVN Lalchand
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F85@
+0 @I28434531435@ INDI
+1 NAME Ram Rakshpal /Chowdhary/
+2 GIVN Ram Rakshpal
+2 SURN Chowdhary
+1 SEX M
+1 FAMC @F85@
+1 FAMS @F11@
+1 OBJE @O81@
+2 _PRIM Y
+0 @I28434531500@ INDI
+1 NAME Rama Shanker /Choudhary/
+2 GIVN Rama Shanker
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F85@
+1 FAMS @F91@
+0 @I310079487993@ INDI
+1 NAME Papu /Bagla/
+2 GIVN Papu
+2 SURN Bagla
+1 SEX M
+1 FAMS @F42@
+1 OBJE @O5@
+2 _PRIM Y
+0 @I310079488249@ INDI
+1 NAME Megha /Agarwal Bagla/
+2 GIVN Megha
+2 SURN Agarwal Bagla
+1 SEX F
+1 FAMS @F43@
+1 OBJE @O49@
+2 _PRIM Y
+0 @I310079509419@ INDI
+1 NAME Aashay /Drolia/
+2 GIVN Aashay
+2 SURN Drolia
+1 SEX M
+1 FAMC @F64@
+1 FAMS @F12@
+1 OBJE @O93@
+2 _PRIM Y
+0 @I310079509618@ INDI
+1 NAME Miraya /Drolia/
+2 GIVN Miraya
+2 SURN Drolia
+1 SEX F
+1 FAMS @F12@
+1 OBJE @O20@
+2 _PRIM Y
+1 OBJE @O127@
+0 @I310079510510@ INDI
+1 NAME Nimisha /Agarwal/
+2 GIVN Nimisha
+2 SURN Agarwal
+1 SEX F
+1 FAMC @F113@
+1 BIRT
+2 PLAC Surat, Gujarat, India
+1 OBJE @O47@
+2 _PRIM Y
+0 @I310079619244@ INDI
+1 NAME Ishita /Tibrewal/
+2 GIVN Ishita
+2 SURN Tibrewal
+1 SEX F
+1 FAMC @F92@
+1 BIRT
+2 DATE 20 Feb 1996
+1 OBJE @O151@
+2 _PRIM Y
+0 @I310079619616@ INDI
+1 NAME Ishaan /Tibrewal/
+2 GIVN Ishaan
+2 SURN Tibrewal
+1 SEX M
+1 FAMC @F71@
+1 BIRT
+2 DATE 4 Jul 1999
+2 PLAC kolkata
+1 OBJE @O133@
+2 _PRIM Y
+0 @I310079702699@ INDI
+1 NAME Apurva /Mohata Kejriwal/
+2 GIVN Apurva
+2 SURN Mohata Kejriwal
+1 SEX F
+1 FAMS @F67@
+1 BIRT
+2 DATE 3 Jan 1989
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O23@
+2 _PRIM Y
+0 @I310079703826@ INDI
+1 NAME Lavanya /Garodia/
+2 GIVN Lavanya
+2 SURN Garodia
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 PLAC Ranchi, Jharkhand, India
+1 OBJE @O92@
+2 _PRIM Y
+0 @I310079704755@ INDI
+1 NAME Ruchi /Agarwal/
+2 GIVN Ruchi
+2 SURN Agarwal
+1 SEX F
+1 FAMC @F93@
+1 FAMS @F58@
+1 BIRT
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O69@
+2 _PRIM Y
+0 @I310079708150@ INDI
+1 NAME Anil /Agarwal/
+2 GIVN Anil
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F58@
+1 OBJE @O63@
+2 _PRIM Y
+0 @I310079708983@ INDI
+1 NAME Ranjita /Poddar/
+2 GIVN Ranjita
+2 SURN Poddar
+1 SEX F
+1 FAMS @F39@
+1 OBJE @O46@
+2 _PRIM Y
+1 OBJE @O100@
+0 @I310079709468@ INDI
+1 NAME Prem Kumar /Agarwal/
+2 GIVN Prem Kumar
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F47@
+1 OBJE @O24@
+2 _PRIM Y
+1 OBJE @O118@
+0 @I310080165639@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+0 @I310080165890@ INDI
+1 NAME Anita /Garodia/
+2 GIVN Anita
+2 SURN Garodia
+1 SEX F
+1 FAMS @F55@
+1 OBJE @O80@
+2 _PRIM Y
+0 @I310080166118@ INDI
+1 NAME Aditi /Garodia/
+2 GIVN Aditi
+2 SURN Garodia
+1 SEX F
+1 FAMC @F55@
+1 OBJE @O43@
+2 _PRIM Y
+0 @I310080708866@ INDI
+1 NAME Rukmani /Choudhary Poddar/
+2 GIVN Rukmani
+2 SURN Choudhary Poddar
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F5@
+0 @I310080709023@ INDI
+1 NAME Kamla /Choudhary Patodia/
+2 GIVN Kamla
+2 SURN Choudhary Patodia
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F20@
+0 @I310080709210@ INDI
+1 NAME Parvati Devi /Choudhary Loyalka/
+2 GIVN Parvati Devi
+2 SURN Choudhary Loyalka
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F30@
+0 @I310080709369@ INDI
+1 NAME Panbai /Choudhary Shraff/
+2 GIVN Panbai
+2 SURN Choudhary Shraff
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F69@
+0 @I310080709524@ INDI
+1 NAME Brij mohan ( Laddu) /Shraff/
+2 GIVN Brij mohan ( Laddu)
+2 SURN Shraff
+1 SEX M
+1 FAMC @F69@
+1 FAMS @F62@
+0 @I310080709641@ INDI
+1 NAME Sita /Shraff Agarwal/
+2 GIVN Sita
+2 SURN Shraff Agarwal
+1 SEX F
+1 FAMC @F69@
+1 FAMS @F1@
+0 @I310080709792@ INDI
+1 NAME Shakuntla /Shraff/
+2 GIVN Shakuntla
+2 SURN Shraff
+1 SEX F
+1 FAMS @F62@
+0 @I310080709855@ INDI
+1 NAME Arun /Shraff/
+2 GIVN Arun
+2 SURN Shraff
+1 SEX M
+1 FAMC @F62@
+1 FAMS @F65@
+1 BIRT
+2 DATE 12 Apr
+1 OBJE @O101@
+2 _PRIM Y
+0 @I310080710467@ INDI
+1 NAME Ritika /Shraff/
+2 GIVN Ritika
+2 SURN Shraff
+1 SEX F
+1 FAMC @F65@
+1 OBJE @O123@
+2 _PRIM Y
+0 @I310080730076@ INDI
+1 NAME Ram Gopal /Agarwal/
+2 GIVN Ram Gopal
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F1@
+0 @I310080730189@ INDI
+1 NAME Ashok /Agarwal/
+2 GIVN Ashok
+2 SURN Agarwal
+1 SEX M
+1 FAMC @F1@
+0 @I310080730294@ INDI
+1 NAME Nathmal /Shraff/
+2 GIVN Nathmal
+2 SURN Shraff
+1 SEX M
+1 FAMS @F69@
+0 @I310080730553@ INDI
+1 NAME Ranjana /Shraff/
+2 GIVN Ranjana
+2 SURN Shraff
+1 SEX F
+1 FAMS @F65@
+1 OBJE @O85@
+2 _PRIM Y
+0 @I310080730646@ INDI
+1 NAME Shanti /Choudhary Bajaj/
+2 GIVN Shanti
+2 SURN Choudhary Bajaj
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F13@
+0 @I310080730679@ INDI
+1 NAME Ram Kumar /Bajaj/
+2 GIVN Ram Kumar
+2 SURN Bajaj
+1 SEX M
+1 FAMS @F13@
+0 @I310080731526@ INDI
+1 NAME Ratan /Agarwal/
+2 GIVN Ratan
+2 SURN Agarwal
+1 SEX M
+1 FAMC @F1@
+0 @I310080731558@ INDI
+1 NAME Anil /Agarwal/
+2 GIVN Anil
+2 SURN Agarwal
+1 SEX M
+1 FAMC @F1@
+0 @I310080899685@ INDI
+1 NAME Prerna /Ajay/
+2 GIVN Prerna
+2 SURN Ajay
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F38@
+1 OBJE @O126@
+2 _PRIM Y
+0 @I310080899803@ INDI
+1 NAME Suryansh /Ajay/
+2 GIVN Suryansh
+2 SURN Ajay
+1 SEX M
+1 FAMC @F16@
+1 OBJE @O109@
+2 _PRIM Y
+0 @I310080900010@ INDI
+1 NAME Ekta /Ajay Agarwal/
+2 GIVN Ekta
+2 SURN Ajay Agarwal
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F57@
+1 FAMS @F89@
+1 OBJE @O41@
+2 _PRIM Y
+0 @I310088023906@ INDI
+1 NAME Hemraj /Poddar/
+2 GIVN Hemraj
+2 SURN Poddar
+1 SEX M
+1 FAMC @F109@
+1 FAMC @F110@
+1 FAMC @F111@
+1 FAMC @F112@
+1 FAMS @F5@
+0 @I310088024003@ INDI
+1 NAME Mohini /Poddar Sarogi/
+2 GIVN Mohini
+2 SURN Poddar Sarogi
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F17@
+0 @I310088024066@ INDI
+1 NAME Kanhaiya Lal /Saraogi/
+2 GIVN Kanhaiya Lal
+2 SURN Saraogi
+1 SEX M
+1 FAMS @F17@
+0 @I310088027121@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+1 FAMS @F109@
+0 @I310088027148@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+1 FAMS @F110@
+0 @I310088027152@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+1 FAMS @F111@
+0 @I310088027167@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+1 FAMS @F112@
+0 @I310088027375@ INDI
+1 NAME Savitri Devi /Poddar Vora/
+2 GIVN Savitri Devi
+2 SURN Poddar Vora
+1 SEX F
+1 FAMC @F5@
+0 @I310088027416@ INDI
+1 NAME Mahavir Prasad /Poddar/
+2 GIVN Mahavir Prasad
+2 SURN Poddar
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F59@
+0 @I310088027509@ INDI
+1 NAME Sneh Lata /Poddar/
+2 GIVN Sneh Lata
+2 SURN Poddar
+1 SEX F
+1 FAMS @F59@
+0 @I310088027566@ INDI
+1 NAME Ishwer Prasad /Poddar/
+2 GIVN Ishwer Prasad
+2 SURN Poddar
+1 SEX M
+1 FAMC @F59@
+1 FAMS @F8@
+0 @I310088027624@ INDI
+1 NAME Rashmi /Poddar/
+2 GIVN Rashmi
+2 SURN Poddar
+1 SEX F
+1 FAMS @F8@
+0 @I310088027662@ INDI
+1 NAME Devki /Poddar/
+2 GIVN Devki
+2 SURN Poddar
+1 SEX M
+1 FAMC @F59@
+0 @I310088027736@ INDI
+1 NAME Manoj /Poddar/
+2 GIVN Manoj
+2 SURN Poddar
+1 SEX M
+1 FAMC @F59@
+0 @I310088027960@ INDI
+1 NAME Gigiya /Bajaj Agarwal/
+2 GIVN Gigiya
+2 SURN Bajaj Agarwal
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F61@
+0 @I310088028030@ INDI
+1 NAME Radhey Shyam /Agarwal/
+2 GIVN Radhey Shyam
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F61@
+0 @I310088028110@ INDI
+1 NAME Jaydev /Patodia/
+2 GIVN Jaydev
+2 SURN Patodia
+1 SEX M
+1 FAMS @F20@
+0 @I310088028167@ INDI
+1 NAME Mahavir Prasad /Patodia/
+2 GIVN Mahavir Prasad
+2 SURN Patodia
+1 SEX M
+1 FAMC @F20@
+0 @I310088028204@ INDI
+1 NAME Hari Mohan /Patodia/
+2 GIVN Hari Mohan
+2 SURN Patodia
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F116@
+0 @I310088028271@ INDI
+1 NAME Hari Kishan /Patodia/
+2 GIVN Hari Kishan
+2 SURN Patodia
+1 SEX M
+1 FAMC @F20@
+0 @I310088028308@ INDI
+1 NAME Ram Kishan /Patodia/
+2 GIVN Ram Kishan
+2 SURN Patodia
+1 SEX M
+1 FAMC @F20@
+0 @I310088028349@ INDI
+1 NAME Lalita /Patodia/
+2 GIVN Lalita
+2 SURN Patodia
+1 SEX F
+1 FAMC @F20@
+0 @I310088028387@ INDI
+1 NAME Pushpa /Patodia Shah/
+2 GIVN Pushpa
+2 SURN Patodia Shah
+1 SEX F
+1 FAMC @F20@
+1 FAMS @F2@
+0 @I310088028424@ INDI
+1 NAME Ashok /Patodia/
+2 GIVN Ashok
+2 SURN Patodia
+1 SEX M
+1 FAMC @F116@
+0 @I310088028501@ INDI
+1 NAME Chiranji Lal /Shah/
+2 GIVN Chiranji Lal
+2 SURN Shah
+1 SEX M
+1 FAMS @F2@
+0 @I310088028639@ INDI
+1 NAME Gouri Shanker /Loyalka/
+2 GIVN Gouri Shanker
+2 SURN Loyalka
+1 SEX M
+1 FAMS @F30@
+0 @I310088028691@ INDI
+1 NAME Gyani /Loyalka/
+2 GIVN Gyani
+2 SURN Loyalka
+1 SEX F
+1 FAMC @F30@
+0 @I310088028733@ INDI
+1 NAME Bajrang /Loyalka/
+2 GIVN Bajrang
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088028776@ INDI
+1 NAME Purshottam /Loyalka/
+2 GIVN Purshottam
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088028823@ INDI
+1 NAME Sanwar Mal /Loyalka/
+2 GIVN Sanwar Mal
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088028876@ INDI
+1 NAME Sudershan /Loyalka/
+2 GIVN Sudershan
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088028916@ INDI
+1 NAME Ram Prasad /Loyalka/
+2 GIVN Ram Prasad
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088028970@ INDI
+1 NAME Ram Avtar /Loyalka/
+2 GIVN Ram Avtar
+2 SURN Loyalka
+1 SEX M
+1 FAMC @F30@
+0 @I310088991296@ INDI
+1 NAME Rukmani Devi /Poddar/
+2 GIVN Rukmani Devi
+2 SURN Poddar
+1 SEX F
+1 FAMC @F88@
+1 FAMS @F68@
+0 @I310088991412@ INDI
+1 NAME ? //
+2 GIVN ?
+1 SEX F
+1 FAMS @F88@
+0 @I310088991506@ INDI
+1 NAME Shyam Sunder /Poddar/
+2 GIVN Shyam Sunder
+2 SURN Poddar
+1 SEX M
+1 FAMC @F68@
+1 FAMS @F66@
+0 @I310088991556@ INDI
+1 NAME Fulla /Poddar/
+2 GIVN Fulla
+2 SURN Poddar
+1 SEX F
+1 FAMS @F66@
+0 @I310145449273@ INDI
+1 NAME Jadia Bai //
+2 GIVN Jadia Bai
+1 SEX F
+1 FAMS @F50@
+0 @I310145449339@ INDI
+1 NAME Savitri Bai /Choudhary/
+2 GIVN Savitri Bai
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F85@
+0 @I310154759913@ INDI
+1 NAME Girdharilal /Fatehpuria/
+2 GIVN Girdharilal
+2 SURN Fatehpuria
+1 SEX M
+1 FAMS @F114@
+0 @I310154760009@ INDI
+1 NAME Jai Narayanan /Fatehpuria./
+2 GIVN Jai Narayanan
+2 SURN Fatehpuria.
+1 SEX M
+1 FAMC @F114@
+1 FAMS @F48@
+0 @I310154760070@ INDI
+1 NAME Malti Devi /Sarogi Fathepuria/
+2 GIVN Malti Devi
+2 SURN Sarogi Fathepuria
+1 SEX F
+1 FAMS @F48@
+0 @I310154760191@ INDI
+1 NAME Dr. Sharada  /Fatehpuria./
+2 GIVN Dr. Sharada 
+2 SURN Fatehpuria.
+1 SEX F
+1 FAMC @F48@
+1 OBJE @O10@
+2 _PRIM Y
+0 @I310154760238@ INDI
+1 NAME Govind /Fatehpuria./
+2 GIVN Govind
+2 SURN Fatehpuria.
+1 SEX M
+1 FAMC @F48@
+1 FAMS @F76@
+1 BIRT
+2 PLAC kolkata
+1 OBJE @O97@
+2 _PRIM Y
+0 @I310155135884@ INDI
+1 NAME Kedarnath /Tharad/
+2 GIVN Kedarnath
+2 SURN Tharad
+1 SEX M
+1 FAMS @F52@
+1 FAMS @F6@
+1 OBJE @O7@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 16
+3 _WDTH 574
+3 _HGHT 574
+3 _TYPE primary
+0 @I310155659870@ INDI
+1 NAME Gita Devi /Kanoria Ganeriwal/
+2 GIVN Gita Devi
+2 SURN Kanoria Ganeriwal
+1 SEX F
+1 FAMC @F53@
+0 @I310155659872@ INDI
+1 NAME Chand Bai /Kanoria/
+2 GIVN Chand Bai
+2 SURN Kanoria
+1 SEX F
+1 FAMS @F53@
+0 @I310155669709@ INDI
+1 NAME Sita Devi /Kanoria Sanganeria/
+2 GIVN Sita Devi
+2 SURN Kanoria Sanganeria
+1 SEX F
+1 FAMC @F53@
+1 FAMS @F81@
+0 @I310155669815@ INDI
+1 NAME Satyanarayan /Kanoria/
+2 GIVN Satyanarayan
+2 SURN Kanoria
+1 SEX M
+1 FAMC @F53@
+1 FAMS @F60@
+0 @I310155670107@ INDI
+1 NAME Ramesh /Sanganeria/
+2 GIVN Ramesh
+2 SURN Sanganeria
+1 SEX M
+1 FAMC @F81@
+0 @I310155670127@ INDI
+1 NAME Suresh /Sanganeria/
+2 GIVN Suresh
+2 SURN Sanganeria
+1 SEX M
+1 FAMC @F81@
+0 @I310155670185@ INDI
+1 NAME Amar /Sanganeria/
+2 GIVN Amar
+2 SURN Sanganeria
+1 SEX M
+1 FAMC @F81@
+0 @I310155671061@ INDI
+1 NAME Rajesh /Kanoria/
+2 GIVN Rajesh
+2 SURN Kanoria
+1 SEX M
+1 FAMC @F90@
+0 @I310155671099@ INDI
+1 NAME Rashmi /Kanoria/
+2 GIVN Rashmi
+2 SURN Kanoria
+1 SEX F
+1 FAMC @F90@
+0 @I310155671369@ INDI
+1 NAME Purshottam /Kanoria/
+2 GIVN Purshottam
+2 SURN Kanoria
+1 SEX M
+1 FAMC @F60@
+1 FAMS @F90@
+0 @I310155671696@ INDI
+1 NAME Manalal /Kanoria/
+2 GIVN Manalal
+2 SURN Kanoria
+1 SEX M
+1 FAMS @F53@
+0 @I310155672206@ INDI
+1 NAME Sakuntla /Kanoria Ganeriwal/
+2 GIVN Sakuntla
+2 SURN Kanoria Ganeriwal
+1 SEX F
+1 FAMC @F60@
+0 @I310155672243@ INDI
+1 NAME Bimla /Kanoria Saraff/
+2 GIVN Bimla
+2 SURN Kanoria Saraff
+1 SEX F
+1 FAMC @F60@
+0 @I310155672268@ INDI
+1 NAME Indu /Kanoria Jhunjhunwala/
+2 GIVN Indu
+2 SURN Kanoria Jhunjhunwala
+1 SEX F
+1 FAMC @F60@
+0 @I310155825344@ INDI
+1 NAME Vijay Prakesh /Choudhary/
+2 GIVN Vijay Prakesh
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F28@
+0 @I310156687133@ INDI
+1 NAME Bhagwati Devi /Kanoria/
+2 GIVN Bhagwati Devi
+2 SURN Kanoria
+1 SEX F
+1 FAMS @F60@
+0 @I312054048452@ INDI
+1 NAME Ridhima /Shraff/
+2 GIVN Ridhima
+2 SURN Shraff
+1 SEX F
+1 FAMC @F65@
+1 OBJE @O15@
+2 _PRIM Y
+0 @I312054048465@ INDI
+1 NAME Ritika /Shraff/
+2 GIVN Ritika
+2 SURN Shraff
+1 SEX F
+1 FAMC @F65@
+1 OBJE @O102@
+2 _PRIM Y
+0 @I312107640533@ INDI
+1 NAME Ajay //
+2 GIVN Ajay
+1 SEX M
+1 FAMS @F16@
+1 OBJE @O28@
+2 _PRIM Y
+0 @I312107640786@ INDI
+1 NAME Sweta /Agarwal/
+2 GIVN Sweta
+2 SURN Agarwal
+1 SEX F
+1 FAMC @F16@
+1 OBJE @O2@
+2 _PRIM Y
+1 OBJE @O62@
+0 @I312107641365@ INDI
+1 NAME Chaitanya /Agarwal/
+2 GIVN Chaitanya
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F38@
+1 OBJE @O27@
+2 _PRIM Y
+0 @I312107641562@ INDI
+1 NAME Rishi /Agarwal/
+2 GIVN Rishi
+2 SURN Agarwal
+1 SEX M
+1 FAMS @F57@
+1 OBJE @O48@
+2 _PRIM Y
+0 @I312107644078@ INDI
+1 NAME Devansh /Garodia/
+2 GIVN Devansh
+2 SURN Garodia
+1 SEX M
+1 FAMC @F21@
+1 OBJE @O57@
+2 _PRIM Y
+0 @I312107899309@ INDI
+1 NAME Raina /Agarwal/
+2 GIVN Raina
+2 SURN Agarwal
+1 SEX F
+1 FAMC @F89@
+1 BIRT
+2 DATE 8 Oct 2004
+0 @I312107899360@ INDI
+1 NAME Rohin /Agarwal/
+2 GIVN Rohin
+2 SURN Agarwal
+1 SEX M
+1 FAMC @F89@
+1 BIRT
+2 DATE 22 May 2001
+0 @I312107900328@ INDI
+1 NAME Poonam /Garodia Tikmani/
+2 GIVN Poonam
+2 SURN Garodia Tikmani
+1 SEX F
+1 FAMC @F97@
+1 FAMS @F29@
+1 OBJE @O11@
+2 _PRIM Y
+0 @I312107900428@ INDI
+1 NAME Prateek /Tikmani/
+2 GIVN Prateek
+2 SURN Tikmani
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 15 Dec 1980
+0 @I312107900523@ INDI
+1 NAME Pradeep /Tikmani/
+2 GIVN Pradeep
+2 SURN Tikmani
+1 SEX M
+1 FAMS @F29@
+0 @I312107936169@ INDI
+1 NAME Pradeep  Pappu /Garodia/
+2 GIVN Pradeep  Pappu
+2 SURN Garodia
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F46@
+1 BIRT
+2 DATE 14 Jan 64
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107936512@ INDI
+1 NAME Sarita /Gadodia/
+2 GIVN Sarita
+2 SURN Gadodia
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 DATE 18 Dec 1966
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107936587@ INDI
+1 NAME Harshit /Garodia/
+2 GIVN Harshit
+2 SURN Garodia
+1 SEX M
+1 FAMC @F46@
+1 BIRT
+2 DATE 6 Jul 1997
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107936652@ INDI
+1 NAME Kritika /Garodia/
+2 GIVN Kritika
+2 SURN Garodia
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F51@
+1 BIRT
+2 DATE 20 Jun 1998
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107936959@ INDI
+1 NAME Chetna /Garodia/
+2 GIVN Chetna
+2 SURN Garodia
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F14@
+1 BIRT
+2 DATE 21 May 1989
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107937079@ INDI
+1 NAME Akhil /Tikmani/
+2 GIVN Akhil
+2 SURN Tikmani
+1 SEX M
+1 FAMS @F51@
+1 BIRT
+2 DATE 29 Jan 1989
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107937148@ INDI
+1 NAME Harsh /Kedia/
+2 GIVN Harsh
+2 SURN Kedia
+1 SEX M
+1 FAMS @F14@
+1 BIRT
+2 DATE 5 Feb 1988
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107937217@ INDI
+1 NAME Hanvita /Tikmani/
+2 GIVN Hanvita
+2 SURN Tikmani
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE 8 Apr 2014
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107937302@ INDI
+1 NAME Swara /Tikmani/
+2 GIVN Swara
+2 SURN Tikmani
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE 3 Jul 2018
+2 PLAC Ranchi, Jharkhand, India
+0 @I312107943969@ INDI
+1 NAME Rishith /Saraf/
+2 GIVN Rishith
+2 SURN Saraf
+1 SEX M
+1 FAMC @F45@
+1 BIRT
+2 DATE 29 May 2010
+2 PLAC Nagpur, Maharashtra, India
+0 @I312323628736@ INDI
+1 NAME Smita /Kejriwal Rajgaria/
+2 GIVN Smita
+2 SURN Kejriwal Rajgaria
+1 SEX F
+1 FAMC @F77@
+1 FAMS @F33@
+1 BIRT
+2 DATE 24 Jan 1973
+2 PLAC Kolkata, West Bengal, India
+0 @I312323628976@ INDI
+1 NAME Dhrub /Kejriwal/
+2 GIVN Dhrub
+2 SURN Kejriwal
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 3 Oct 1992
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O112@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 255
+3 _WDTH 2864
+3 _HGHT 2864
+3 _TYPE primary
+0 @I312339717551@ INDI
+1 NAME Kamal  /Choudhary/
+2 GIVN Kamal 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F84@
+0 @I312339717588@ INDI
+1 NAME Ramesh  /Choudhary/
+2 GIVN Ramesh 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F56@
+1 BIRT
+2 DATE 30/11/1956
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O147@
+2 _PRIM Y
+0 @I312339717638@ INDI
+1 NAME Sushil /Choudhary/
+2 GIVN Sushil
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F11@
+0 @I312339717852@ INDI
+1 NAME Sweta /Choudhary/
+2 GIVN Sweta
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F84@
+0 @I312339718082@ INDI
+1 NAME Amit /Choudhary/
+2 GIVN Amit
+2 SURN Choudhary
+1 FAMC @F84@
+0 @I312339718338@ INDI
+1 NAME Narmada /Choudhary/
+2 GIVN Narmada
+2 SURN Choudhary
+1 SEX F
+1 FAMS @F54@
+0 @I312339718499@ INDI
+1 NAME Ginla Devi  /Choudhary/
+2 GIVN Ginla Devi 
+2 SURN Choudhary
+1 SEX F
+1 FAMS @F72@
+0 @I312339718542@ INDI
+1 NAME Sunita /Choudhary/
+2 GIVN Sunita
+2 SURN Choudhary
+1 SEX F
+1 FAMS @F15@
+0 @I312339718576@ INDI
+1 NAME Piyush  /Choudhary/
+2 GIVN Piyush 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F15@
+0 @I312339718611@ INDI
+1 NAME Puja  /Choudhary/
+2 GIVN Puja 
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F15@
+0 @I312339718639@ INDI
+1 NAME Swati  /Choudhary/
+2 GIVN Swati 
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F15@
+0 @I312339718716@ INDI
+1 NAME Sangeeta /Choudhary/
+2 GIVN Sangeeta
+2 SURN Choudhary
+1 SEX F
+1 FAMS @F49@
+0 @I312339718760@ INDI
+1 NAME Mehak /Choudhary/
+2 GIVN Mehak
+2 SURN Choudhary
+1 SEX F
+1 FAMC @F49@
+0 @I312339718784@ INDI
+1 NAME Pulkit  /Choudhary/
+2 GIVN Pulkit 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F49@
+0 @I312339721835@ INDI
+1 NAME Sanjay  /Choudhary/
+2 GIVN Sanjay 
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F91@
+0 @I312340735080@ INDI
+1 NAME Rajkumari /Bubna/
+2 GIVN Rajkumari
+2 SURN Bubna
+1 SEX F
+1 FAMS @F56@
+1 BIRT
+2 DATE 13 Apr 1959
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O4@
+2 _PRIM Y
+0 @I312340735442@ INDI
+1 NAME Navneet /Chowdhary/
+2 GIVN Navneet
+2 SURN Chowdhary
+1 SEX M
+1 FAMC @F56@
+1 BIRT
+2 DATE 26 Sep 1979
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O124@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 0
+3 _WDTH 780
+3 _HGHT 780
+3 _TYPE primary
+0 @I312340735698@ INDI
+1 NAME Nishant /Choudhary/
+2 GIVN Nishant
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F56@
+1 FAMS @F19@
+1 BIRT
+2 DATE 16 Aug 1983
+2 PLAC Kolkata, West Bengal, India
+0 @I312340735942@ INDI
+1 NAME Sailesh /Choudhary/
+2 GIVN Sailesh
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F56@
+1 FAMS @F24@
+1 BIRT
+2 DATE 25 Feb 1985
+2 PLAC Kolkata, West Bengal, India
+0 @I312340736140@ INDI
+1 NAME Vivanta /Kayshap/
+2 GIVN Vivanta
+2 SURN Kayshap
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O37@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 47
+3 _WDTH 362
+3 _HGHT 362
+3 _TYPE primary
+0 @I312340736410@ INDI
+1 NAME Sheetal /Singhal/
+2 GIVN Sheetal
+2 SURN Singhal
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O12@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 80
+3 _WDTH 325
+3 _HGHT 325
+3 _TYPE primary
+0 @I312340736636@ INDI
+1 NAME Anant /Chowdhary/
+2 GIVN Anant
+2 SURN Chowdhary
+1 SEX M
+1 FAMC @F19@
+1 BIRT
+2 PLAC Kolkata, West Bengal, India
+1 OBJE @O74@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 0
+3 _WDTH 833
+3 _HGHT 833
+3 _TYPE primary
+0 @I312372991873@ INDI
+1 NAME Prem Sukh ji  /Choudhary/
+2 GIVN Prem Sukh ji 
+2 SURN Choudhary
+1 SEX M
+0 @I312372991963@ INDI
+1 NAME Hargovind /Choudhary/
+2 GIVN Hargovind
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F107@
+1 FAMS @F104@
+0 @I312372991968@ INDI
+1 NAME Girdharilal ji /Choudhary/
+2 GIVN Girdharilal ji
+2 SURN Choudhary
+1 SEX M
+1 FAMS @F107@
+0 @I312372991999@ INDI
+1 NAME Prem Sukh ji /Choudhary/
+2 GIVN Prem Sukh ji
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F104@
+0 @I312372992238@ INDI
+1 NAME Kishan lal /Choudhary/
+2 GIVN Kishan lal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F79@
+1 FAMS @F82@
+0 @I312372992245@ INDI
+1 NAME Ramji lal /Choudhary/
+2 GIVN Ramji lal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F82@
+1 FAMS @F108@
+0 @I312372992279@ INDI
+1 NAME Dhanna lal ji /Choudhary/
+2 GIVN Dhanna lal ji
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F82@
+1 DEAT
+2 PLAC Darjiling, West Bengal, India
+0 @I312372992284@ INDI
+1 NAME Ratan lal /Choudhary/
+2 GIVN Ratan lal
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F108@
+0 @I312372992290@ INDI
+1 NAME Moolchand ji /Choudhary/
+2 GIVN Moolchand ji
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F108@
+0 @I312372992301@ INDI
+1 NAME Prayag ch /Choudhary/
+2 GIVN Prayag ch
+2 SURN Choudhary
+1 SEX M
+1 FAMC @F108@
+0 @I312465977390@ INDI
+1 NAME Tania Devi //
+2 GIVN Tania Devi
+1 SEX F
+1 FAMS @F6@
+0 @I312465977575@ INDI
+1 NAME Tania Devi //
+2 GIVN Tania Devi
+1 SEX F
+1 FAMS @F52@
+1 OBJE @O72@
+2 _PRIM Y
+0 @I312488243405@ INDI
+1 NAME Umesh /Rajgaria/
+2 GIVN Umesh
+2 SURN Rajgaria
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE 14 Sep
+2 PLAC Bangalore, Karnataka, India
+0 @I312488243439@ INDI
+1 NAME Ahaan /Rajgaria/
+2 GIVN Ahaan
+2 SURN Rajgaria
+1 SEX M
+1 FAMC @F33@
+1 BIRT
+2 DATE 24 Jul
+2 PLAC Bangalore, Karnataka, India
+0 @I312488243470@ INDI
+1 NAME Avishi /Rajgaria/
+2 GIVN Avishi
+2 SURN Rajgaria
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 3 Oct
+2 PLAC Bangalore, Karnataka, India
+0 @I312488243563@ INDI
+1 NAME Siddhant /kejriwal/
+2 GIVN Siddhant
+2 SURN kejriwal
+1 SEX M
+1 FAMC @F95@
+1 BIRT
+2 DATE 30 Jun 2021
+0 @I312488243595@ INDI
+1 NAME Siya /kejriwal/
+2 GIVN Siya
+2 SURN kejriwal
+1 SEX F
+1 FAMC @F67@
+1 BIRT
+2 DATE 30 Jun 2021
+2 PLAC Kolkata
+0 @I312705831610@ INDI
+1 NAME Anurag /Fatehpuria./
+2 GIVN Anurag
+2 SURN Fatehpuria.
+1 SEX M
+1 FAMC @F76@
+0 @I312705831633@ INDI
+1 NAME Prof. Anuradha /Fatehpuria./
+2 GIVN Prof. Anuradha
+2 SURN Fatehpuria.
+1 SEX F
+1 FAMC @F76@
+0 @I312718141992@ INDI
+1 NAME Ratni /Devi/ Mrs
+2 GIVN Ratni
+2 SURN Devi
+2 NSFX Mrs
+1 SEX F
+1 FAMS @F11@
+0 @I312718142116@ INDI
+1 NAME Prem /Chowdhary/
+2 GIVN Prem
+2 SURN Chowdhary
+1 SEX U
+1 FAMC @F11@
+0 @F1@ FAM
+1 _SREL unknown
+1 HUSB @I310080730076@
+1 WIFE @I310080709641@
+1 CHIL @I310080731558@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080731526@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080730189@
+2 _FREL unknown
+2 _MREL unknown
+0 @F2@ FAM
+1 _SREL unknown
+1 HUSB @I310088028501@
+1 WIFE @I310088028387@
+0 @F3@ FAM
+1 HUSB @I28433806022@
+1 WIFE @I28433821259@
+0 @F4@ FAM
+1 HUSB @I28433801621@
+1 WIFE @I28433802181@
+1 CHIL @I28433802307@
+2 _FREL unknown
+0 @F5@ FAM
+1 _SREL unknown
+1 HUSB @I310088023906@
+1 WIFE @I310080708866@
+1 CHIL @I310088027416@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088027375@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088024003@
+2 _FREL unknown
+2 _MREL unknown
+0 @F6@ FAM
+1 HUSB @I310155135884@
+1 WIFE @I312465977390@
+1 CHIL @I1173652003@
+2 _FREL unknown
+0 @F7@ FAM
+1 HUSB @I28433803713@
+1 WIFE @I28433804066@
+1 CHIL @I310080730646@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080709369@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080709210@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080709023@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080708866@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I1173658994@
+1 CHIL @I28433803768@
+0 @F8@ FAM
+1 _SREL unknown
+1 HUSB @I310088027566@
+1 WIFE @I310088027624@
+0 @F9@ FAM
+1 HUSB @I28433800669@
+1 WIFE @I28433802048@
+1 CHIL @I28433801620@
+1 CHIL @I28433801098@
+1 CHIL @I28433801095@
+0 @F10@ FAM
+1 HUSB @I28433803996@
+1 WIFE @I28434530160@
+1 CHIL @I28433803713@
+0 @F11@ FAM
+1 HUSB @I312718141992@
+1 WIFE @I28434531435@
+1 CHIL @I312339717588@
+1 CHIL @I312339717551@
+1 CHIL @I312339717638@
+1 CHIL @I312718142116@
+0 @F12@ FAM
+1 _SREL unknown
+1 HUSB @I310079509419@
+1 WIFE @I310079509618@
+0 @F13@ FAM
+1 _SREL unknown
+1 HUSB @I310080730679@
+1 WIFE @I310080730646@
+1 CHIL @I310088027960@
+2 _FREL unknown
+2 _MREL unknown
+0 @F14@ FAM
+1 _SREL unknown
+1 HUSB @I312107937148@
+1 WIFE @I312107936959@
+0 @F15@ FAM
+1 HUSB @I28434530970@
+1 WIFE @I312339718542@
+1 CHIL @I312339718639@
+1 CHIL @I312339718611@
+1 CHIL @I312339718576@
+0 @F16@ FAM
+1 _SREL unknown
+1 HUSB @I312107640533@
+1 WIFE @I28433806059@
+1 CHIL @I312107640786@
+1 CHIL @I310080900010@
+2 _MREL unknown
+1 CHIL @I310080899803@
+2 _MREL unknown
+1 CHIL @I310080899685@
+2 _MREL unknown
+0 @F17@ FAM
+1 _SREL unknown
+1 HUSB @I310088024066@
+1 WIFE @I310088024003@
+0 @F18@ FAM
+1 HUSB @I28433819882@
+1 WIFE @I28433819990@
+1 CHIL @I28433820028@
+2 _MREL unknown
+1 CHIL @I312323628976@
+0 @F19@ FAM
+1 HUSB @I312340735698@
+1 WIFE @I312340736410@
+1 CHIL @I312340736636@
+0 @F20@ FAM
+1 _SREL unknown
+1 HUSB @I310088028110@
+1 WIFE @I310080709023@
+1 CHIL @I310088028387@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028349@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028308@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028271@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028204@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028167@
+2 _FREL unknown
+2 _MREL unknown
+0 @F21@ FAM
+1 HUSB @I28433806053@
+1 WIFE @I28433821044@
+1 CHIL @I310079703826@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I312107644078@
+2 _FREL unknown
+2 _MREL unknown
+0 @F22@ FAM
+1 HUSB @I28433800675@
+1 WIFE @I28433801622@
+1 CHIL @I28433801621@
+1 CHIL @I28433802772@
+2 _MREL unknown
+1 CHIL @I28433802763@
+2 _MREL unknown
+0 @F23@ FAM
+1 HUSB @I1173658994@
+1 WIFE @I1173661403@
+1 CHIL @I28433805941@
+2 _MREL unknown
+1 CHIL @I28433800710@
+2 _MREL unknown
+1 CHIL @I28433800675@
+2 _MREL unknown
+1 CHIL @I28433800669@
+2 _MREL unknown
+1 CHIL @I1173617601@
+0 @F24@ FAM
+1 HUSB @I312340735942@
+1 WIFE @I312340736140@
+0 @F25@ FAM
+1 HUSB @I1173617601@
+1 WIFE @I1173652003@
+1 CHIL @I1173617600@
+1 CHIL @I28433801612@
+1 CHIL @I28433801617@
+0 @F26@ FAM
+1 HUSB @I1173617600@
+1 WIFE @I1173654325@
+1 CHIL @I1173655214@
+1 CHIL @I1173658308@
+0 @F27@ FAM
+1 HUSB @I28433804138@
+1 WIFE @I28433806585@
+0 @F28@ FAM
+1 HUSB @I28433803768@
+1 WIFE @I28433803789@
+1 CHIL @I310155825344@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I28433804944@
+2 _MREL unknown
+1 CHIL @I28433803912@
+2 _MREL unknown
+1 CHIL @I28433803889@
+2 _MREL unknown
+1 CHIL @I28433803864@
+2 _MREL unknown
+1 CHIL @I28433803830@
+2 _MREL unknown
+1 CHIL @I28433803811@
+2 _MREL unknown
+0 @F29@ FAM
+1 _SREL unknown
+1 HUSB @I312107900523@
+1 WIFE @I312107900328@
+1 CHIL @I312107900428@
+0 @F30@ FAM
+1 _SREL unknown
+1 HUSB @I310088028639@
+1 WIFE @I310080709210@
+1 CHIL @I310088028970@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028916@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028876@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028823@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028776@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028733@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088028691@
+2 _FREL unknown
+2 _MREL unknown
+0 @F31@ FAM
+1 HUSB @I28433805965@
+1 WIFE @I28433800710@
+1 CHIL @I28433806007@
+2 _MREL unknown
+1 CHIL @I312107936169@
+1 CHIL @I28433806059@
+2 _MREL unknown
+1 CHIL @I28433806053@
+2 _MREL unknown
+1 CHIL @I28433806039@
+2 _MREL unknown
+1 CHIL @I28433806022@
+2 _MREL unknown
+0 @F32@ FAM
+1 HUSB @I28433801611@
+1 WIFE @I28433801612@
+1 CHIL @I28433801610@
+1 CHIL @I28433801613@
+0 @F33@ FAM
+1 HUSB @I312488243405@
+1 WIFE @I312323628736@
+1 CHIL @I312488243439@
+1 CHIL @I312488243470@
+0 @F34@ FAM
+1 HUSB @I28433801097@
+1 WIFE @I28433801609@
+1 CHIL @I1173654325@
+1 CHIL @I28433801092@
+0 @F35@ FAM
+1 HUSB @I28433803830@
+1 WIFE @I28433804169@
+1 CHIL @I28433804222@
+2 _MREL unknown
+0 @F36@ FAM
+1 HUSB @I28433801095@
+1 WIFE @I28433801096@
+1 CHIL @I28433801094@
+1 CHIL @I28433801615@
+0 @F37@ FAM
+1 HUSB @I28433801092@
+1 WIFE @I28433801093@
+1 CHIL @I28433801091@
+1 CHIL @I28433801614@
+0 @F38@ FAM
+1 _SREL unknown
+1 HUSB @I312107641365@
+1 WIFE @I310080899685@
+0 @F39@ FAM
+1 _SREL unknown
+1 HUSB @I28433806423@
+1 WIFE @I310079708983@
+0 @F40@ FAM
+1 HUSB @I28433802772@
+1 WIFE @I28433802907@
+0 @F41@ FAM
+1 HUSB @I28433801624@
+1 WIFE @I28433802018@
+0 @F42@ FAM
+1 _SREL unknown
+1 HUSB @I310079487993@
+1 WIFE @I28433801620@
+1 CHIL @I28433801619@
+2 _FREL unknown
+0 @F43@ FAM
+1 _SREL unknown
+1 HUSB @I28433801619@
+1 WIFE @I310079488249@
+0 @F44@ FAM
+1 HUSB @I28433801617@
+1 WIFE @I28433801618@
+1 CHIL @I28433801616@
+1 CHIL @I28433803094@
+2 _MREL unknown
+0 @F45@ FAM
+1 HUSB @I28433822354@
+1 WIFE @I28433822308@
+1 CHIL @I312107943969@
+0 @F46@ FAM
+1 _SREL unknown
+1 HUSB @I312107936169@
+1 WIFE @I312107936512@
+1 CHIL @I312107936959@
+1 CHIL @I312107936587@
+1 CHIL @I312107936652@
+0 @F47@ FAM
+1 _SREL unknown
+1 HUSB @I310079709468@
+1 WIFE @I28433806457@
+0 @F48@ FAM
+1 _SREL unknown
+1 HUSB @I310154760009@
+1 WIFE @I310154760070@
+1 CHIL @I310154760238@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310154760191@
+2 _FREL unknown
+2 _MREL unknown
+0 @F49@ FAM
+1 HUSB @I28434531000@
+1 WIFE @I312339718716@
+1 CHIL @I312339718784@
+1 CHIL @I312339718760@
+0 @F50@ FAM
+1 _SREL unknown
+1 HUSB @I28434531331@
+1 WIFE @I310145449273@
+0 @F51@ FAM
+1 _SREL unknown
+1 HUSB @I312107937079@
+1 WIFE @I312107936652@
+1 CHIL @I312107937217@
+1 CHIL @I312107937302@
+0 @F52@ FAM
+1 HUSB @I310155135884@
+1 WIFE @I312465977575@
+1 CHIL @I1173652003@
+0 @F53@ FAM
+1 _SREL unknown
+1 HUSB @I310155671696@
+1 WIFE @I310155659872@
+1 CHIL @I310155669815@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310155669709@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310155659870@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I1173661403@
+2 _FREL unknown
+2 _MREL unknown
+0 @F54@ FAM
+1 HUSB @I28434530848@
+1 WIFE @I312339718338@
+1 CHIL @I28434530861@
+0 @F55@ FAM
+1 _SREL unknown
+1 HUSB @I28433806007@
+1 WIFE @I310080165890@
+1 CHIL @I28433822308@
+2 _MREL unknown
+1 CHIL @I310080166118@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I28433822277@
+2 _MREL unknown
+0 @F56@ FAM
+1 HUSB @I312339717588@
+1 WIFE @I312340735080@
+1 CHIL @I312340735442@
+1 CHIL @I312340735698@
+1 CHIL @I312340735942@
+0 @F57@ FAM
+1 _SREL unknown
+1 HUSB @I312107641562@
+1 WIFE @I310080900010@
+0 @F58@ FAM
+1 _SREL unknown
+1 HUSB @I310079708150@
+1 WIFE @I310079704755@
+0 @F59@ FAM
+1 _SREL unknown
+1 HUSB @I310088027416@
+1 WIFE @I310088027509@
+1 CHIL @I310088027736@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088027662@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310088027566@
+2 _FREL unknown
+2 _MREL unknown
+0 @F60@ FAM
+1 _SREL unknown
+1 HUSB @I310155669815@
+1 WIFE @I310156687133@
+1 CHIL @I310155672268@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310155672243@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310155672206@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310155671369@
+2 _FREL unknown
+2 _MREL unknown
+0 @F61@ FAM
+1 _SREL unknown
+1 HUSB @I310088028030@
+1 WIFE @I310088027960@
+0 @F62@ FAM
+1 _SREL unknown
+1 HUSB @I310080709524@
+1 WIFE @I310080709792@
+1 CHIL @I310080709855@
+2 _FREL unknown
+2 _MREL unknown
+0 @F63@ FAM
+1 HUSB @I28433805649@
+1 WIFE @I28433805666@
+1 CHIL @I28433805723@
+2 _MREL unknown
+0 @F64@ FAM
+1 HUSB @I28433804324@
+1 WIFE @I28433804129@
+1 CHIL @I310079509419@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I28433806284@
+2 _FREL unknown
+0 @F65@ FAM
+1 _SREL unknown
+1 HUSB @I310080709855@
+1 WIFE @I310080730553@
+1 CHIL @I312054048465@
+1 CHIL @I312054048452@
+1 CHIL @I310080710467@
+2 _MREL unknown
+0 @F66@ FAM
+1 _SREL unknown
+1 HUSB @I310088991506@
+1 WIFE @I310088991556@
+0 @F67@ FAM
+1 _SREL unknown
+1 HUSB @I28433820028@
+1 WIFE @I310079702699@
+1 CHIL @I312488243595@
+0 @F68@ FAM
+1 _SREL unknown
+1 HUSB @I28433805623@
+1 WIFE @I310088991296@
+1 CHIL @I310088991506@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I28433805649@
+2 _MREL unknown
+1 CHIL @I28433803789@
+2 _MREL unknown
+0 @F69@ FAM
+1 _SREL unknown
+1 HUSB @I310080730294@
+1 WIFE @I310080709369@
+1 CHIL @I310080709524@
+2 _FREL unknown
+2 _MREL unknown
+1 CHIL @I310080709641@
+2 _FREL unknown
+2 _MREL unknown
+0 @F70@ FAM
+1 HUSB @I28433802763@
+1 WIFE @I28433802793@
+1 CHIL @I28433803009@
+2 _MREL unknown
+1 CHIL @I28433803029@
+2 _MREL unknown
+0 @F71@ FAM
+1 HUSB @I28433822752@
+1 WIFE @I28433822725@
+1 CHIL @I310079619616@
+2 _FREL unknown
+2 _MREL unknown
+0 @F72@ FAM
+1 HUSB @I28434530861@
+1 WIFE @I312339718499@
+1 CHIL @I28434531000@
+1 CHIL @I28434530970@
+0 @F73@ FAM
+1 HUSB @I28433803811@
+1 WIFE @I28433804305@
+1 CHIL @I28433804129@
+1 CHIL @I28433804134@
+1 CHIL @I28433804138@
+0 @F74@ FAM
+1 HUSB @I28433802020@
+1 WIFE @I28433802019@
+0 @F75@ FAM
+1 HUSB @I28434530197@
+1 CHIL @I28434530731@
+1 CHIL @I28434530719@
+1 CHIL @I28434530685@
+1 CHIL @I28433803996@
+0 @F76@ FAM
+1 HUSB @I310154760238@
+1 CHIL @I312705831610@
+1 CHIL @I312705831633@
+0 @F77@ FAM
+1 WIFE @I28433805941@
+1 CHIL @I28433819882@
+1 CHIL @I28433822725@
+1 CHIL @I312323628736@
+0 @F78@ FAM
+1 HUSB @I28433822887@
+1 CHIL @I28433819882@
+1 CHIL @I28433822725@
+0 @F79@ FAM
+1 HUSB @I28434530655@
+1 CHIL @I312372992238@
+0 @F80@ FAM
+1 HUSB @I28434530232@
+1 CHIL @I28434530655@
+1 CHIL @I28434530579@
+1 CHIL @I28434530574@
+1 CHIL @I28434530464@
+1 CHIL @I28434530432@
+1 CHIL @I28434530420@
+1 CHIL @I28434530350@
+1 CHIL @I28434530197@
+0 @F81@ FAM
+1 WIFE @I310155669709@
+1 CHIL @I310155670185@
+2 _MREL unknown
+1 CHIL @I310155670127@
+2 _MREL unknown
+1 CHIL @I310155670107@
+2 _MREL unknown
+0 @F82@ FAM
+1 HUSB @I312372992238@
+1 CHIL @I312372992279@
+1 CHIL @I312372992245@
+0 @F83@ FAM
+1 WIFE @I28433804944@
+1 CHIL @I28433804962@
+0 @F84@ FAM
+1 HUSB @I312339717551@
+1 CHIL @I312339717852@
+1 CHIL @I312339718082@
+0 @F85@ FAM
+1 HUSB @I28434531331@
+1 CHIL @I310145449339@
+2 _FREL unknown
+1 CHIL @I28434531500@
+1 CHIL @I28434531435@
+1 CHIL @I28434531433@
+1 CHIL @I28434531351@
+0 @F86@ FAM
+1 WIFE @I28433803864@
+1 CHIL @I28433806457@
+1 CHIL @I28433806423@
+0 @F87@ FAM
+1 WIFE @I28433803889@
+1 CHIL @I28433804896@
+0 @F88@ FAM
+1 WIFE @I310088991412@
+1 CHIL @I310088991296@
+2 _MREL unknown
+0 @F89@ FAM
+1 WIFE @I310080900010@
+1 CHIL @I312107899360@
+1 CHIL @I312107899309@
+0 @F90@ FAM
+1 HUSB @I310155671369@
+1 CHIL @I310155671099@
+2 _FREL unknown
+1 CHIL @I310155671061@
+2 _FREL unknown
+0 @F91@ FAM
+1 HUSB @I28434531500@
+1 CHIL @I312339721835@
+0 @F92@ FAM
+1 WIFE @I28433822725@
+1 CHIL @I310079619244@
+2 _MREL unknown
+0 @F93@ FAM
+1 WIFE @I28433803912@
+1 CHIL @I310079704755@
+2 _MREL unknown
+0 @F94@ FAM
+1 HUSB @I28434530731@
+1 CHIL @I28434531331@
+0 @F95@ FAM
+1 HUSB @I28433820028@
+1 CHIL @I312488243563@
+0 @F96@ FAM
+1 HUSB @I28434530685@
+1 CHIL @I28434530848@
+0 @F97@ FAM
+1 WIFE @I28433800710@
+1 CHIL @I312107900328@
+0 @F98@ FAM
+1 HUSB @I28434531124@
+1 CHIL @I28434531284@
+1 CHIL @I28434531269@
+0 @F99@ FAM
+1 HUSB @I28433803244@
+1 CHIL @I28433801096@
+1 CHIL @I28433803242@
+1 CHIL @I28433803243@
+0 @F100@ FAM
+1 HUSB @I28434531091@
+1 CHIL @I28434531222@
+1 CHIL @I28434531186@
+0 @F101@ FAM
+1 HUSB @I28433801628@
+1 CHIL @I28433801097@
+1 CHIL @I28433801627@
+0 @F102@ FAM
+1 HUSB @I28433801625@
+1 CHIL @I28433801609@
+1 CHIL @I28433801626@
+0 @F103@ FAM
+1 WIFE @I28433801098@
+1 CHIL @I28433801090@
+0 @F104@ FAM
+1 HUSB @I312372991963@
+1 CHIL @I28434530232@
+1 CHIL @I312372991999@
+0 @F105@ FAM
+1 HUSB @I28433801626@
+1 CHIL @I28433801624@
+1 CHIL @I28433802020@
+0 @F106@ FAM
+1 HUSB @I28433801627@
+1 CHIL @I28433801623@
+0 @F107@ FAM
+1 HUSB @I312372991968@
+1 CHIL @I312372991963@
+0 @F108@ FAM
+1 HUSB @I312372992245@
+1 CHIL @I312372992301@
+1 CHIL @I312372992290@
+1 CHIL @I312372992284@
+0 @F109@ FAM
+1 WIFE @I310088027121@
+1 CHIL @I310088023906@
+2 _MREL unknown
+0 @F110@ FAM
+1 WIFE @I310088027148@
+1 CHIL @I310088023906@
+2 _MREL unknown
+0 @F111@ FAM
+1 WIFE @I310088027152@
+1 CHIL @I310088023906@
+2 _MREL unknown
+0 @F112@ FAM
+1 WIFE @I310088027167@
+1 CHIL @I310088023906@
+2 _MREL unknown
+0 @F113@ FAM
+1 WIFE @I28433804134@
+1 CHIL @I310079510510@
+2 _MREL unknown
+0 @F114@ FAM
+1 HUSB @I310154759913@
+1 CHIL @I310154760009@
+2 _FREL unknown
+1 CHIL @I28433804066@
+2 _FREL unknown
+0 @F115@ FAM
+1 HUSB @I28434530719@
+1 CHIL @I28434531124@
+1 CHIL @I28434531091@
+0 @F116@ FAM
+1 HUSB @I310088028204@
+1 CHIL @I310088028424@
+2 _FREL unknown
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1437107
+3 _WDTH 2100
+3 _HGHT 2749
+2 TITL Mrs
+1 _OID 00e8126b-b00e-462a-b587-4c25cd6646d1
+1 DATE 11 Aug 1966
+1 _META <metadataxml />
+1 _CREA 2026-03-19 13:28:41.186
+1 _USER MehwSsfOpc4PINsHNLmiVYyZohpjC/N6+29Ayz+GrU5Kehp4n+C8ORPkyCQYEuYsJFt/UseANdJuvXc4l4/3Gg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1037515
+3 _WDTH 1080
+3 _HGHT 2280
+2 TITL Android Photo
+1 _OID 035fbcd6-5afe-4e0b-bd64-f1e201ceaf71
+1 DATE 08 Jun 2019
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:04:27.000
+1 _USER 74d/6xf7V/YxAuHLk6JFSuEIeL5Flkchu0d00AeoVsxxg7dBOxpKhfuN6eskuVwYld6yRxalVs8ZCS5FR2DvLA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 138013
+3 _WDTH 960
+3 _HGHT 956
+2 TITL Android Photo
+1 _OID 0488cce5-d11d-43d6-b586-1ac632d3f2cd
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:33:39.700
+1 _USER lD/i5abL2gGW5OL7F3FkQZKiUDS2kCr4qYwUGX95xO0h34WljCC5H39OX/VO1jLcRbTkUKdfPnqq1H2gSFbD5Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 116207
+3 _WDTH 493
+3 _HGHT 596
+2 TITL Android Photo
+1 _OID 0587e404-3df3-4a3b-b5b8-3af401c35c54
+1 DATE 19 Jan 2022
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:41:59.000
+1 _USER fkM0IpNS6q5qq5mRReY6SMAb74q0oeq9fAZ0ss5IcOAxR0ovz2bXAgDiP15N4397u4xSKuQuUocnr1VNQbgI1g==
+2 _ENCR 1
+1 _ORIG u
+1 _MSER
+2 _LKID 0587e404-3df3-4a3b-b5b8-3af401c35c54
+1 _ATL Y
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 58272
+3 _WDTH 640
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 068742fe-082d-4184-9900-ac95fcb5c360
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:47:56.027
+1 _USER Rq1wxPQcMd3fhJpEmEwuofA+nk07DayexWwp9IIpsg4ZTbomYnZsNue4aLI0fysFQ0Pu9vVPKTnkoUq9+kd1Tw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 195128
+3 _WDTH 568
+3 _HGHT 612
+2 TITL Android Photo
+1 _OID 07824d70-093d-4a69-9364-57b87b94f115
+1 DATE 07 Nov 2021
+1 PLAC Kolkata, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2021-11-07 09:07:32.000
+1 _USER uU3GoJc0zJkmsPEeo6m8Pew7yHAm9p3gdM40M4eLfbjqx8VeykEReLwqEhcI0u9uvuyEuk1KpCOiZeg6n+rKyA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 129958
+3 _WDTH 574
+3 _HGHT 606
+2 TITL Android Photo
+1 _OID 0b01b0ff-c465-488a-92c7-0805665db58d
+1 DATE 17 Mar 2023
+1 _META <metadataxml />
+1 _CREA 2023-03-17 00:47:09.805
+1 _USER 7o+RhU7RMQq7b2bh0/IFqV9PrIYydFYSFEtVp9Svqyqm0zM73rbdc1okdKrva1LQVK+9K2Z/FQGpP8GHcDZsfw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 54117
+3 _WDTH 257
+3 _HGHT 383
+2 TITL Android Photo
+1 _OID 0dc87bbc-2b26-4188-af95-08135eb9b5ff
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 10:54:14.567
+1 _USER OQeEHYQvrvT8yP3hesllMsowtKRAtmAPGyZCzzti7WF5sF2iSWy+cevwVv8qrC7vw/vDqVfykTCGIOOgLk6UOA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 227837
+3 _WDTH 1080
+3 _HGHT 1920
+2 TITL Android Photo
+1 _OID 0fdd2870-060a-47f2-9f6e-eeee0da29c7d
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:15:44.431
+1 _USER TFtlzVoNHubUiUFr5i604gCx/18pqNuES/DhK5MKSJtbgydjeZTj90xVohmBd/HwmHjvZm2+fJT1m19UONUtZA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 267414
+3 _WDTH 649
+3 _HGHT 984
+2 TITL Android Photo
+1 _OID 11d986f3-725b-4c67-bae1-09fb83063cdc
+1 DATE 08 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-08 02:30:25.000
+1 _USER n8lThRPBeTXim7Jt4wOrcERSTz5TOKAcK6AsaKJPvrNEUDOJkqLq/zIAnd45RrwD3lHXIytAUpGjDbI+o8PNQQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 250677
+3 _WDTH 1080
+3 _HGHT 1092
+2 TITL Android Photo
+1 _OID 131f156d-6579-4135-a5be-3dad19478309
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 15:03:58.000
+1 _USER eZ6vsRHOz/cNXEFRWAjmIIKebmf21cXjSAyE8WqiWYPkEFG7ZJ7V38Ub5vUzBm808Uegv9a9pgJnEsMINOQS3g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 64636
+3 _WDTH 325
+3 _HGHT 485
+2 TITL Mrs
+1 _OID 154d9b0e-bdec-4b48-915a-8a9f0e4c01f7
+1 DATE 19 Jan 2022
+1 PLAC Kolkata, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:54:19.000
+1 _USER qFNcaXDdEQrW6zKhIK3CEHMiEUq8vk4RFwUoO0s2WKVM31u9lc34q6UHMVRgB3KTDyxSdrVSlBAc5vuuV/ChQg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 78355
+3 _WDTH 418
+3 _HGHT 553
+2 TITL Shree
+1 _OID 167be0be-46fc-4fae-8c07-f8ac0908e792
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2014-10-25 14:52:30.187
+1 _USER QbltDatsgiVc1V/6ZdtHfnGZxj8Mhrqa59Eb7iZqPETyBeE6Z/vcbNFye+QinBQ0zDO4ayGvlX0E2dJLTgzCGQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 527326
+3 _WDTH 824
+3 _HGHT 1198
+2 TITL scan0109
+1 _OID 18070fe6-57ce-4cf2-aaa6-ffa9d934f482
+1 _CREA 2017-04-04 12:06:37.624
+1 _USER mHHv69pdh4Sp5Axg5by+9BVbLyhvJuKU4Wkro4ttkyIlpbaD1d3nvXbLkHuyNnf0ANerHEXSb92Ri2jGyqukGw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 72781
+3 _WDTH 1280
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 1aa7e37b-845b-4927-abbf-1ef65a4f86f8
+1 DATE 18 Nov 2018
+1 _META <metadataxml />
+1 _CREA 2018-11-18 16:21:53.400
+1 _USER KmR0qMxzMQ3vNY71hs5WU9LmwzO4PPOFwVaLb7F4GXBM3N+kyfsWGm7zm5+wkrSR3a1Jvz2HRLBSWjGTaM7Cpw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 241307
+3 _WDTH 1080
+3 _HGHT 1920
+2 TITL Android Photo
+1 _OID 1f9b6fc5-e2dd-441b-98f7-13580bb17ffb
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:17:08.961
+1 _USER iII5EU6lz0Ewx3pXikS/+bHN1nWaYIexT3l6858s5H+3xH996nb/f1TJYft8ja+yAyoDfnD/BYFefzvI7U47Xw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 191815
+3 _WDTH 763
+3 _HGHT 815
+2 TITL Android Photo
+1 _OID 21b58f33-bef0-4eeb-93f4-05d20169bb00
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:26:23.072
+1 _USER ha5mW+NVXcz6848qi7g4MMolqTvQl6q9+x6lswMid6UKPlnx4LkoiDWMW+XKfdLcnsZ/DCQp3BTronGvn/RmTA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 46952
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID 22eaa090-e29a-4105-bd3a-97c8aae0944e
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:43:57.396
+1 _USER DqLOZfta+8hhnw0KJ9+3EiDHvRsR98AfBMbWRAfT4iWCB6FJsGr+88MukC94TCUhCCcz1EBl6cI9YodjN0QLaQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 75684
+3 _WDTH 768
+3 _HGHT 1024
+2 TITL Android Photo
+1 _OID 230c10b0-e82e-422d-a8f0-8e4cf2429fe8
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:12:04.679
+1 _USER r7iPiNrdDeURWXPpWQhioUBaknYIF6e5nRRXnzXUA0PGoiTLJRqvRQsSpLS972Uxh4xl72uzcpWVGXdiub49VQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 106542
+3 _WDTH 956
+3 _HGHT 959
+2 TITL Android Photo
+1 _OID 2393732b-0fe1-4a32-8b5c-e0c22ec33911
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:18:09.374
+1 _USER N5xrK1ZDIR8DtqVEeBPWFp/mlbZECMunjFABR3M+ObN95m4493Epd8YhGD+2IFKECDLqz0VjMt3QnMzG/HUSjA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 206098
+3 _WDTH 798
+3 _HGHT 1206
+2 TITL Tansukhi Devi
+1 _OID 28934f2f-6da7-441c-865c-5648b02d1f3b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2014-10-25 16:03:17.547
+1 _USER XC/BzHm7nBKN4uXuJ9TfJUEsK2/NAhv5HB2WdvfLM846KcAx8epctb/Kb8uhZZ19NWFrL/0d1y0Y5sVZ6LOnBg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 88907
+3 _WDTH 633
+3 _HGHT 718
+2 TITL Android Photo
+1 _OID 2c2c11d0-2747-4c81-b20a-d0187b37aa12
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:02:09.676
+1 _USER 6tebVP8h7pfA4cuntFTbwmvpZSbLNHt9bOKycl1WPBT/UOCSIXB6upJ690t4cKsoFr5l1EjcsEYahcYuEvTGbw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 123806
+3 _WDTH 1282
+3 _HGHT 1282
+2 TITL Android Photo
+1 _OID 2cb9604a-df46-4687-b047-328fbeff4339
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 13:47:10.329
+1 _USER 3mwfc0ctD6UWNVstWSI2++b7vMsx9O6xu18/+HgI4fClei+kdSAQCHWO2yAvVoD3il68HUwPvlCWB+SSVWe/Qw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 133096
+3 _WDTH 1080
+3 _HGHT 1080
+2 TITL Android Photo
+1 _OID 2cf1eaf7-8ac3-41b8-9ca1-dbcbf1f312b4
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:46:37.520
+1 _USER y96m5z40J6LDeini05EJ88JIKRADedLUWqLgBnqTUzTXpwYUBnhsL9G0lhwOe+i4x2XyZklih9DcwEDFHtapgQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 522468
+3 _WDTH 1202
+3 _HGHT 869
+2 TITL scan0098
+1 _OID 2fceb1fd-4da8-4682-9725-58c512fd1147
+1 _CREA 2017-04-04 12:04:51.379
+1 _USER O5xihBICYtlZLfgFj/8t8oHGXqUZMFVyH0xPLfcZWVJiu6NWmQ3Li6UJkZ5lIRFzAwh03Q+uWbRZ9c0uycjA6Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 156722
+3 _WDTH 1536
+3 _HGHT 1536
+2 TITL Android Photo
+1 _OID 31697c22-1f7e-4afe-970c-def747d43e70
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:13:33.319
+1 _USER zqPxyMvewn7fLCpVbUpcQTNBY50WItxWPq5HVgTat0IZBNQ0RhoZmqj0Wd7UY8Q7vnh8WBdFQMY81N+wMsf0oA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 78329
+3 _WDTH 960
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 33438aaa-3c44-48d7-aed7-116b450bede9
+1 DATE 08 Jun 2019
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:07:54.000
+1 _USER xcMTENF9Eyu8fWrPkVOFAj1bYFj+P28YdM3bDw76bdN5KaoUS27yP97DEz2S3eiAClNW8Nts4m6jS4ZKUymjBw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 36614
+3 _WDTH 194
+3 _HGHT 466
+2 TITL Android Photo
+1 _OID 369cfa08-e5c3-4db7-9ba6-39223c157186
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:33:01.000
+1 _USER HfZ7NB8AuYDfu6+ryW2MFXhIKK0Ve8sfK0L79l4kDPM71SD45o40wpLREAbxfdwpVO95xqSArsHZ5ek+PO06rg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 117909
+3 _WDTH 866
+3 _HGHT 1227
+2 TITL Android Photo
+1 _OID 375b2b71-bb94-4af8-9abb-7d2ecaef12d3
+1 DATE 20 Jan 2022
+1 _META <metadataxml />
+1 _CREA 2022-01-20 04:51:44.000
+1 _USER hY4hVoYbS+H07Fi9I+KQ9xlWUTxFWJe/MEonbtoMe7SQsPY1x1tamZnlI7JblhaL/MudfLoUGnldawyYI0aTCw==
+2 _ENCR 1
+1 _ORIG u
+1 _MSER
+2 _LKID 375b2b71-bb94-4af8-9abb-7d2ecaef12d3
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 241307
+3 _WDTH 1080
+3 _HGHT 1920
+2 TITL Android Photo
+1 _OID 379ab7f5-b000-4f1a-a445-641fd4214cf4
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:17:18.044
+1 _USER M6NWl9mhhlzhnwEZuIYoKMIs1WZeFWDr912cdtjGSf1xc+2Z0J5ArL2F/KMbw+VAgTs0G4Iy07fnaiahtGDAWA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1774454
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID 3908525b-8ea7-426a-865a-c50ea461de37
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 14:29:02.000
+1 _USER 4NB716s4CNUk7cQTy7uBxKP+sH/oL3WrH8tPdiLrJHraxOL+nJ+FQoFhnSJk8RwbkzlF+sJN21ydnxSLRs8LRQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 592684
+3 _WDTH 992
+3 _HGHT 1418
+2 TITL mom2
+1 _OID 3ad595bb-a35c-4ccf-9926-42aaaf0250bf
+1 _CREA 2017-04-04 10:38:40.096
+1 _USER 4x9ydqE/AwJay2CwnOpSPAu3FgGsWffe03hd3ngKPLm4+ncQkbKmDs2rS4oChibGnvcrKtqhj6pyU767B6JKyg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 30377
+3 _WDTH 720
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 3bcf066e-73e1-4ba3-99df-ff73742d145c
+1 DATE 02 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-02 17:33:47.416
+1 _USER abCyJCZL6NWPkOvJXLNWgWH7lXqtxXQ34dZx9qBTKThcIbDhtOHNgYcuLEXiZYlKIcz4w+XoBzE3wfFxF9wKOA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 116084
+3 _WDTH 481
+3 _HGHT 690
+2 TITL Android Photo
+1 _OID 3e71eb26-be9d-49b0-8f58-d1cb507f65a1
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 13:49:18.519
+1 _USER wyYgr4z0wo+5IgpkeET9PqDk+UqwOqrbAsSRG+Xj5C2AT1KawB6q3ltDAHWejqm7K7r4+jKnuprU1gwcTdvf6w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 52262
+3 _WDTH 720
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 3f5fc469-4dbe-45a8-ae93-793ceacb7a13
+1 DATE 07 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-07 04:44:19.630
+1 _USER WWXD+W1/QQlHY5Xnn0hvkeL4OlWi1FuS0B8UXQHBrNLFrT1fOmU9HwwhGmAcYiDOxNJ1lHWCqsCbIBFAMzdxMg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O36@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 77618
+3 _WDTH 846
+3 _HGHT 1117
+2 TITL Android Photo
+1 _OID 4107e9d7-9275-433a-8318-9ef0331d579b
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:35:28.216
+1 _USER qP593Z4bYc13IDcr2bvjtBs92nfeP7SanGz+Y2zr/dOs2e2h1qvyTvH+kCLp0Nh/Y9wfbR7CJOQBK8eE1HWg+w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O37@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 91297
+3 _WDTH 362
+3 _HGHT 551
+2 TITL Mrs
+1 _OID 413086ae-650f-45cb-947e-c6c180f425fb
+1 DATE 19 Jan 2022
+1 PLAC Kolkata, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:52:07.000
+1 _USER 5kjITYfiK+LKz40StL3ACN7TXFgxO1N+XMnecOsumuhZ51ph+xnHE00KaVUWI9qG5/pkLy7FMk39qSeFG60MmQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O38@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 125051
+3 _WDTH 565
+3 _HGHT 686
+2 TITL Android Photo
+1 _OID 420ff711-77b3-40d5-90a5-9c1b29e09315
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 13:50:18.297
+1 _USER XUNVWVnhBf3jmXJ0JHAF8wy2zBP+oGF4hii98hFE8EUSRK04v8I68zoa63kVFhsh8/lZRDJ0r2aPpFtJ4bjU4A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O39@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 103642
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID 470f1053-cf9f-42c5-a1b8-ac700839da46
+1 DATE 04 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-04 02:08:58.621
+1 _USER eYBP1XJoB+ikMjCYhfLKwhxgOXnChP/aA5owX6TJkZBcYItYHlzPMqkYfnRnUDYEq4P9a3rgsehhXhRf8mLaoA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O40@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 63083
+3 _WDTH 540
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 4a8163dc-fd30-4bf3-a3db-5a5af3a1ab7b
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:49:45.575
+1 _USER vKJgMiGcMd6vlRtoAQOmEKs+5O1ZSqgczpaeE409M6fJdfGogqCnp/cw15scRcmWKamjyGYRU++qjKp08gOApQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O41@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 116669
+3 _WDTH 417
+3 _HGHT 784
+2 TITL Android Photo
+1 _OID 4cc8d08c-cd8c-41c5-bb75-1a117e427e3e
+1 DATE 06 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-06 06:06:18.964
+1 _USER 96DjacfdGRz/XnCM8KqaANWOel6WC1ZUff0rt4F9u8zhpipiw9TLYkiBxOd9oGJPVHz/Sx5bGgxwTVBsqVTCQw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O42@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 251052
+3 _WDTH 1331
+3 _HGHT 1020
+2 TITL Mr.
+1 _OID 4ccd1eb8-0edd-4ca3-a057-c2fd83544ef0
+1 DATE 19 Mar 2026
+1 _META <metadataxml />
+1 _CREA 2026-03-19 13:22:46.201
+1 _USER 854IJzoGIT7m24nH32tZdt32QrLNbR1P85yLr7C1IvzKD8imre45yMnb5Rok1L19NP8wfl/41Ii+GoD5gq0sYA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O43@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 144530
+3 _WDTH 960
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 4ce8a63a-d113-45fc-8c23-0a9af7547bf3
+1 DATE 02 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-02 17:48:16.151
+1 _USER ZywTPXKvuopvvMuDDgnTzycEKaPuyPRn6QtIDOmgrXbET71lW5Ayqa5MC6bDA+EViRcpQnOcLcquZj8/uCL95A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O44@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2518210
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID 4d4421c4-49ff-45e1-bc36-48a6d02cb0c5
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 13:21:16.000
+1 _USER mbHOHHnsQ9xx5ygfSYyJ/G4J+T6EOwZLd3RmW+WPbow3J+QkephDCG0d4SZ85S5X4aFIbJnLBDJXb2UMolwngA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O45@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 138013
+3 _WDTH 960
+3 _HGHT 956
+2 TITL Android Photo
+1 _OID 5151d7f5-49d6-4ff2-b4d7-3947180310f7
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:33:46.906
+1 _USER sUh9lWJ6aRf+8butt19eMs3h6KPU8OrOGWwrOkZZh3SQl3UujvuukNt1bsDWYVBOJ3psbEjAET4RrvlHQyaMOw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O46@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 138013
+3 _WDTH 960
+3 _HGHT 956
+2 TITL Android Photo
+1 _OID 51af4401-eada-4c25-99b9-bb0b4417ea26
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:39:18.855
+1 _USER tD7G2V5RPnW9ygEVxXkfmjJ9Llbi5mtjWuxKw58IkcIDCFipmdhVg0VjBVlprhT4GbY5R8Y0BZExOFXkjC6CfQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O47@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 225705
+3 _WDTH 1920
+3 _HGHT 1920
+2 TITL Android Photo
+1 _OID 51c6b3de-37e8-48d5-935b-54b0ac893e7d
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:30:29.708
+1 _USER HcHVnnAjx0d6l8WW3DcVk6Uy3R8MyLijdsIo1gHgvPmmCsspDOCr2BQrR+PYzw2mcgkBuPVOMNnzShDmZfI3Uw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O48@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 99768
+3 _WDTH 747
+3 _HGHT 747
+2 TITL Android Photo
+1 _OID 53146fa5-2ba1-483c-b806-1491b69a9b2c
+1 DATE 08 Jun 2019
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:10:11.000
+1 _USER j/ouFQExZ747XpjnUvCm/1njsArzpsdfgvhI0Ouusv2Sov51gFp9eVGsBDeWlJ69waXSe2qOXwqJFcbpmNq9DA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O49@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 77732
+3 _WDTH 640
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 56b3c8c1-685d-4c42-8826-df61c519731a
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:51:41.755
+1 _USER jKF4pHYMk1MRl8Jwbl1XX6lsbHlRwX4+du0rg8XmRD1EsR3MPoHx2eBVNErfd40KeXeAHknTodoweY3WTSBiqQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O50@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 82168
+3 _WDTH 960
+3 _HGHT 676
+2 TITL Android Photo
+1 _OID 5abf326a-1831-4d89-8d64-eaaeab059dee
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:33:08.929
+1 _USER cNxaKw63iRYQta535/V4bAQefMd/nyj2qabPDvauTaki18MdN7vEXTa1MJYpT9XftyGrPlZllZdxZCcfFV+KGA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O51@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 128503
+3 _WDTH 1365
+3 _HGHT 1365
+2 TITL Android Photo
+1 _OID 5dc5c38d-84af-4631-9285-a1688deb796f
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:10:33.278
+1 _USER zOYMzb9DIZzIuXjBNImpLEnsROVMvnz51eHjQHoMgIMeXXZYlzAQ3l8fVPdSWE4tYpzxuqHW7dQH4JgNSkEn+A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O52@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 494832
+3 _WDTH 1232
+3 _HGHT 1650
+2 TITL Android Photo
+1 _OID 5ed94e4c-8362-48fc-9db7-3943cccedd7c
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:22:52.064
+1 _USER c0E7rKC8RCTdznOXletB4WKCTO3frjqpR7lo6k4zsRwJOm+XoqfEtX+kaO3dOqA07Y6p6yQm//ULUtytx4Lnag==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O53@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpg
+3 _SIZE 147868
+3 _WDTH 854
+3 _HGHT 854
+2 TITL Photoline
+1 _OID 613b5c1f-a58a-46c1-a589-efa3f5d4e674
+1 DATE 07 Nov 2021
+1 _DSCR Photoline based of Phul Chand Choudhary, Sri Kishan Choudhary, Ram Gopal Choudhary and Ravi Choudhary.
+1 _META <metadataxml />
+1 _CREA 2021-11-07 08:50:49.000
+1 _USER sDqJQyTgj4ISp+6enWYnVlXiXOaatLvE03rG6k7IeAdIb4wP/sDz3LkHJdu5jl5ZAaRsb46vQjWzYNc+oGLd2Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O54@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 107314
+3 _WDTH 574
+3 _HGHT 720
+2 TITL Mom
+1 _OID 63837de3-f455-497f-9d31-79f61e0df69c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2014-10-12 12:57:43.297
+1 _USER LWtFKT66ta1UuMStZC/dPixdkeLMVlLvs2t2yrm/OFcMVafcNSf2/Ol/RYOiSBuwT8RR7pJPsNxle+P6CdMpXQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O55@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 64276
+3 _WDTH 683
+3 _HGHT 1024
+2 TITL Android Photo
+1 _OID 63bdd405-3832-44ad-b7ed-56d098731e6e
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:11:13.714
+1 _USER Ia545uCp8WiRS/2rsDeFGiI3WSH0ykaJgk5SX01sel5+SPXNmwUMnTSRpkVhNuRClpzVMbEpB0jmvPANyAHqwA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O56@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 88394
+3 _WDTH 1371
+3 _HGHT 2048
+2 TITL Android Photo
+1 _OID 66e64012-2c32-44bc-9cff-483526af001f
+1 DATE 05 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-05 17:43:22.815
+1 _USER UyrtZNAIaSNaPY/Wb5G2FfFLXL7Yy55YrCMFGhTR9fwRCTdLahNPispXbfKNJCdWBpYd7H9LLPqjU0beoCfZZw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O57@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 29096
+3 _WDTH 571
+3 _HGHT 572
+2 TITL Android Photo
+1 _OID 66f1f2bf-f601-4805-8f23-ed9e1e8f4829
+1 DATE 08 Jun 2019
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:37:33.000
+1 _USER odOVyNRUstvFgToSy2hRH/VjtM33Y3Jx+QbQmSiuGp+MO9Dqmi64pvw7o+wtacF0vJjkNVLzCOWTVpKaDWgpGw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O58@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 64276
+3 _WDTH 683
+3 _HGHT 1024
+2 TITL Android Photo
+1 _OID 687bc9c2-1079-4be7-9a8c-0425e552a7a9
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:11:20.894
+1 _USER UxOaffT4P3nIYZHffTP5txIXsfCWMP7HcnQRI0Q8qu0QTus9FadzhsvMMdGg7uIBpHk2e6fWDbraVhLu8bcW9g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O59@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 147260
+3 _WDTH 470
+3 _HGHT 433
+2 TITL scan0129
+1 _OID 68a7d7e2-4557-44e7-8eda-b1592b0c7270
+1 _CREA 2017-04-04 12:10:57.630
+1 _USER i7QDJ5mHXuled9CwxsVhx4wnpFvHK0o5qlcIc73qKFTd2nYK8FkKHY7RcJ9NstsxxHVXtBVQPk3XYYyhG4k4NA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O60@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 116084
+3 _WDTH 481
+3 _HGHT 690
+2 TITL Android Photo
+1 _OID 6a8da26e-3729-4614-b398-60e2b23a832a
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 13:49:02.685
+1 _USER YZgq22zp6UT2RVhrCuCFAcmPCZidk/y7sVPh2DheSkujqRvibYZRk62oo5PDSKqESWAJ2Y54N22OdPfewLqn1g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O61@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 52689
+3 _WDTH 600
+3 _HGHT 800
+2 TITL Android Photo
+1 _OID 6aea4953-80af-44eb-8216-e5e1b10d4da4
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:42:08.925
+1 _USER 1waN+Ap5F9sB7MCMdG/DywhiogI2C7gCRLx2WrNaIUAffqmBlyXy5j8L4yib9tlqXgWGALxziJLAYfMfQYxdcQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O62@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1037515
+3 _WDTH 1080
+3 _HGHT 2280
+2 TITL Android Photo
+1 _OID 6c47bbdf-e5be-4045-abcc-be3bb587d744
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:04:34.000
+1 _USER MQwib0JJfx+DHnyTfMv+E2aWiyNYSoHRGXsAhZ3hKD04pgIqhcfELWdTrLhxdse9aBGzytNJJNHjKhQ0yooIBQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O63@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 56806
+3 _WDTH 639
+3 _HGHT 639
+2 TITL Android Photo
+1 _OID 6ebc64c7-7ba7-49c0-920e-d2909bd09abc
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:28:36.198
+1 _USER vPSZ/VGVJ3HBVGs7IE7EJoOSh/yN596QJLIECV5y9MhHHfeSbIhk8SFFcqAIP8fMSSjQZOQX5E7twM08aJ+97Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O64@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 494832
+3 _WDTH 1232
+3 _HGHT 1650
+2 TITL Android Photo
+1 _OID 6ebe2ced-fc12-4629-99d8-84a8d114bf4c
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:22:57.525
+1 _USER uaQh7C++OARbXp5c/RT0JG2sOOuK8xGI/IPtHiiFmT7qNTywhhI27/L2R1iRLgHhQhc4ijQwtrN0u3DBvtY0AQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O65@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2111965
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID 6f6ee4d9-6390-439d-ba89-48dbe85a9a10
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 13:12:13.000
+1 _USER S4uZ3GD4YNtFeYO4TL7HGoPajcz+bTxc038ISAco4QHat2fap1+hqztJh1+fGm1tvCSJcjAqpGfa+8MF1N5mKQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O66@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 178459
+3 _WDTH 629
+3 _HGHT 464
+2 TITL Morning ritual
+1 _OID 6fb2cb9c-5216-4f3f-9c28-621fe1981774
+1 _CREA 2017-04-04 12:07:57.949
+1 _USER ia2DO+U8pCOoWOL0z+YheNJ+5pDxF+jiA78LcPhXsNqa1Y/lNH1nkzV7qc4c4bxATXtokdin4k3Ze6sxxVZgNg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O67@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2512519
+3 _WDTH 2610
+3 _HGHT 4640
+2 TITL Android Photo
+1 _OID 74e112f4-ce0e-471d-9dfa-efe3a6a7afa0
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:37:54.640
+1 _USER DuDtScEJ/jVm2tFe7bc36D5OqHvAPWv+YWX2ez4K7zuVJgWneciMk8hp90VxAEor+FcWrGJP/UbN/CjLavqLeg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O68@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 34559
+3 _WDTH 720
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 751368d1-f26f-40e6-85c4-aeb1f79d07d0
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 05:32:15.467
+1 _USER agl/VsVKOmdFiQoZjnfLPDhDFy1roQ+iPIun2HdD+cNvFVkQExYC3B82A8850sQxmCgMtmYtmvHSv0L5JgA2Hw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O69@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 90388
+3 _WDTH 960
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 777a010a-6fe2-4048-9d8c-777c1c5a1002
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:22:02.627
+1 _USER E0y9UCrDCnV6IqffiYtxMEVSFaim0eInIdrgpQH+DFxfOQffB/16N0yZsOIAtnA2VR8cZvC974ac0UWuoYhvFA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O70@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 87512
+3 _WDTH 993
+3 _HGHT 993
+2 TITL Android Photo
+1 _OID 7850391d-81a7-46e0-af14-0c03659a5abe
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:01:42.096
+1 _USER xIvMcve5Vi1zlmeVS8u4VAuA8Qq5wFgkZmINxKjadzCiOMtOJ0ljRS+xcbxuAf9vGDvsWAY/gTceW9u10WHOWA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O71@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2122909
+3 _WDTH 2610
+3 _HGHT 4640
+2 TITL Android Photo
+1 _OID 7871e235-820d-46a0-9ffb-f889a9afbb8b
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:25:21.365
+1 _USER zjuMQlAex3IhNbPpTr/9C/DtNpnl7qmMjnXlvR9wvSwsNufNumnWVCZ0fqgnLoiyfjPXK1toz8FeouTBmJMkmQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O72@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 123768
+3 _WDTH 508
+3 _HGHT 601
+2 TITL Android Photo
+1 _OID 787eac0c-4469-4dd1-8e46-0be094708a2f
+1 DATE 17 Mar 2023
+1 _META <metadataxml />
+1 _CREA 2023-03-17 00:50:24.830
+1 _USER dEkH2FQqzxmzkJPj9W2bglIox8XF9OcRVAHwPogPTrEbgfVgpVSkXI2XofN2rc7C+SxrNdzUKclFHQT0lkKfWA==
+2 _ENCR 1
+1 _ORIG u
+1 _MSER
+2 _LKID 787eac0c-4469-4dd1-8e46-0be094708a2f
+1 _ATL N
+0 @O73@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 46952
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID 7b458d92-d9e6-44c5-b545-69d7e2036f8e
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:43:59.388
+1 _USER rtbOSkDiyVAIf48yxORqsUIBroitUQE15Ie3xInIu4f1c2UvVfVtt1wO5T/KPSg1MjXemQ5h9mL06jAY1ulhXA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O74@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 164088
+3 _WDTH 833
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 7de1fc3c-2e1d-4d37-a52e-ed76fc7ec9b4
+1 DATE 19 Jan 2022
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:56:06.000
+1 _USER 5CE8Roj01hJ2dkVaycC/5NT30mtud8IGOta8mACytCFZGTknZELnYKQIVmFrDMSCtgktvEH3cEaCl8XCy3GOmA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O75@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 87512
+3 _WDTH 993
+3 _HGHT 993
+2 TITL Android Photo
+1 _OID 7e5732a2-4826-49c5-aa00-84792f720a02
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:01:51.890
+1 _USER R17bo0/X3ZvjjeY1vxHXcMSHiRDUJo92JjFKpdFKjEzc0QqsylItNwScTGqlxz618lCCN3ayKhkRWrJQqISgsg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O76@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1968403
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID 7f903dc0-ab8a-42f1-82a6-8deee674e9c7
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 14:27:23.000
+1 _USER T/eK2icOqKNfLqhTXh1y2JM1TMI+9XmYpRYC3SNc0c4GN1r2xdVUcQ+ZTFte1fonMofwD26meFQTzBAEfBpO5Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O77@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 129645
+3 _WDTH 1257
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 80350b23-6428-4007-a940-e3b39f54f825
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:26:43.589
+1 _USER AneMimi989O7Kw5Z5TtCwZg0eRgnD2D44deuSJK6UqGwP3YnBcJkbhmz8+qdRxTuTsp+050mXDr3q6wMev2o3w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O78@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 82168
+3 _WDTH 960
+3 _HGHT 676
+2 TITL Android Photo
+1 _OID 80963eca-5569-4f0e-9b47-eb2c3bad36a7
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:33:11.178
+1 _USER zibfecVTK4ZFEjTY8rB/Y7tbbIKoyZ9hvtsFRMKw3bbWa7IamcoedqM/f2EJ716H5XxOr8nNCN7AyBFf+h1noA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O79@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 254166
+3 _WDTH 1080
+3 _HGHT 1091
+2 TITL Android Photo
+1 _OID 81307883-17d9-422a-b8b7-d12572cbf98e
+1 DATE 30 Oct 2021
+1 _META <metadataxml />
+1 _CREA 2021-10-30 17:50:33.000
+1 _USER YTr7++YIP8lo9/YTIkRqREE6NwbaORzsRvuBr/x0S/CTufvUgNVEY6K81jwGb+7QCOv8hlp1eBCj8UwMHurcgg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O80@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 30377
+3 _WDTH 720
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 81c35471-4db7-4da4-8255-0692c103cabf
+1 DATE 02 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-02 17:45:45.163
+1 _USER DuVOzxi9VqP0GFQGaxxGgHnui4MdIomLiHatVeUaSndkMTDQJ6s2268DbV+47MY+KSloNGEYfQaDHYOW1xyzMA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O81@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 90635
+3 _WDTH 818
+3 _HGHT 1268
+2 TITL Android Photo
+1 _OID 83676b32-04cc-4223-8c49-28dbb2d56ac2
+1 DATE 20 Jan 2022
+1 _META <metadataxml />
+1 _CREA 2022-01-20 04:50:48.000
+1 _USER eR0EKAMPZkL3t1MWc6SzFIvj3qC04Lx21hY182fOhj7z8I8Pdi0uTS/ASLVihMpAJOOOeDtR8hSHws0Xntw4Wg==
+2 _ENCR 1
+1 _ORIG u
+1 _MSER
+2 _LKID 83676b32-04cc-4223-8c49-28dbb2d56ac2
+1 _ATL N
+0 @O82@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1903466
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID 842a988c-7aa3-444f-859f-fbf5c56a781e
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 14:37:59.000
+1 _USER 6QZVAZHQzfLtOdOuYTCLUcFrfoV4sjakZ/OsA6qRz3SnCfLpjaoah22q6HwQG1EXTraIZF1CIxAOt8TvTBsBpQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O83@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 144530
+3 _WDTH 960
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 84b8ee52-0140-42b4-a320-b20aacaf6dd5
+1 DATE 02 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-02 17:38:38.007
+1 _USER gZN/FOkP7BZ0S94lOheHhNjNyRnGpA/7ogUVIrWelB4jqesEoj8afR1MoYj3vVpj5HyxohS4UiE6nP+RhcqBCw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O84@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 71064
+3 _WDTH 960
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 86624198-73e0-4e4d-b3a4-ccf4aa4c063b
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 13:42:58.643
+1 _USER RU8DjQ2Ocs7wUMxRxsXtxeeOyQNJbQeD9izx1cNEPghEsFlbxn8WEsDXwUIEd1STUp76RLHokjm8uWdc3F7RIg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O85@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 59433
+3 _WDTH 1087
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID 88c68b20-27aa-4e5f-a027-471266ff3cf3
+1 DATE 18 Nov 2018
+1 _META <metadataxml />
+1 _CREA 2018-11-18 16:18:31.428
+1 _USER D/8kLInNiRRNkbHl1NNavcYqT5upvzUlC2Vim7ptihqJQ3xiQDSwtRZO56AWWJSMFjNBieHE7AtnlW5yeqD/DQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O86@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 229968
+3 _WDTH 784
+3 _HGHT 584
+2 TITL Babaji
+1 _OID 88c91f2d-e62f-48ea-9342-e71aa00ebc21
+1 _CREA 2017-04-04 12:03:33.791
+1 _USER 2He8lhjWlD60HE3RLJcli/4xIihSLQweBtCZgkDpjfamynOfafCDzr1Zuwv0dW14pp2eX4mWx0v1zK680o2D9Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O87@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 85098
+3 _WDTH 1432
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 8c738e52-a599-45fc-acc2-bd279638dc46
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:41:12.468
+1 _USER B6o7fKf1nTgVqxNMDR1tDjLOmwApLuK9LzBqVSLB+oc7yHXTNxG9Qo8txH0Idy2Zu2D6zitNKTR0DrZhmme2/g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O88@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 80549
+3 _WDTH 640
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 8c9d1cf2-0a2c-41a9-afd7-c2e478f3e070
+1 DATE 05 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-05 02:25:25.019
+1 _USER xCB0YYLh0v0tbCEzZHLKy8wQ1KTcM8kXMKcIGgNus/64Kytw6rQjgA/qbdswSBJ1fX7KMYFIFw9AzyqQLUOa3A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O89@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 191815
+3 _WDTH 763
+3 _HGHT 815
+2 TITL Android Photo
+1 _OID 9d8d1f59-2025-450e-bb01-863bdc320599
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:26:24.768
+1 _USER lCh7tD/9r14CYVUNvfz9QY7NJ6lEX/G5VhP9u3FwJpPNcNS8GBADknTu1HaMiSdvxjCWSccr1vzI1rLicyPhHQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O90@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 56697
+3 _WDTH 720
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID 9dc741be-3757-4f7e-8a95-a1afb6d8208c
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:09:31.188
+1 _USER GTgm1bUkTaOPlbRY+UC3KLCFgLUx6IeG/7dt9+0dfQBmMWtMyYTS0ngmIVY8humSFWWeusEgwP3fdKyDk4jLhA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O91@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 45688
+3 _WDTH 540
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID a0da9e2f-7ac5-4be5-8bc9-8107c0ea160b
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:36:39.882
+1 _USER eVNz7DWmmJJpREtusgLBFSwPtcAKfBISjxqC7AGZHAbAzZgzKDpo76Hzd3Abr/9jtcyhcz4/4j+wgrbGl2tlNw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O92@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 32759
+3 _WDTH 800
+3 _HGHT 800
+2 TITL Android Photo
+1 _OID a12a7556-82c3-4fac-bc7a-af692ffc0de3
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:07:13.832
+1 _USER 5uERz+KGpVTtAe1xh0p22XzKvhQlucmZ74p5RjX6J87YAUcxePKd5wa3DzVuzpG//BJlIhznqRF3yq4Bxqo6uA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O93@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 30062
+3 _WDTH 580
+3 _HGHT 600
+2 TITL Android Photo
+1 _OID a2e659b5-e796-41f2-a7c1-f6c0971a6bdb
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:15:29.150
+1 _USER /sASYZGXTgo8aIMa/xIWaIrVQ4jcl7myukGVFhBcM3zuOy8iM07ldNBuBnRqLV4eo3rjgqyBlzwFuJFDqcAwlQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O94@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 72227
+3 _WDTH 359
+3 _HGHT 409
+2 TITL Android Photo
+1 _OID a58d5ffb-fd03-45d5-8eaf-65c344e66011
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 05:30:59.195
+1 _USER gzKAjN5gUUUlRgsPfP7fbPvLRC38+jR/dZdu0latm0tYnGeEF7kvkjCoOcr3l2u0BXmE6ho3sTSU5yKG+E8qEA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O95@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2089176
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID ab6f8de0-7d91-4622-9ba1-f8ba90306fde
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 13:23:58.000
+1 _USER tS9ZksKM5DsYUtnQh0wVZ0HKZcJvFQeBqAn0SHkWRgceJWW4rRkMYx53e8CblL2DuDDh7cqhVkjP3kgNbZX4jQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O96@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 50382
+3 _WDTH 310
+3 _HGHT 366
+2 TITL Android Photo
+1 _OID aea109ce-acaa-4861-b7bb-1bedd4ffb0ca
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 11:56:36.542
+1 _USER a5he1wyEzyqSpLgcsaArn4T6U7SbWJh+CNuGyWU2rZlkWJqljDEfKAdBCTf7pKU/E6GfB6bPngwuY+cGTppKOQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O97@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1478040
+3 _WDTH 1391
+3 _HGHT 1929
+2 TITL Android Photo
+1 _OID afceb457-3399-4def-925a-3521134da2eb
+1 DATE 07 Nov 2021
+1 PLAC Howrah, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2021-11-08 02:26:41.000
+1 _USER nawSYi+jMG7p5oICwYrsvYKFkmxEIWDWQG5LUiqR9DKkh4d3NEoBZzZEo8Ul1zjCcdQ8uR1nonXmJyMt9n4QcQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O98@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 336198
+3 _WDTH 616
+3 _HGHT 920
+2 TITL scan0164
+1 _OID b26e339c-2c11-44a6-9e6f-ebc84dcea7bb
+1 _CREA 2017-04-04 13:53:02.655
+1 _USER 5ZJGR63TO7JyUHOw2jJUngZwelAShFWjCWVRxVBZwkdVV4yTZc2dCG4yTrGIPR0zTd7JeHBx1T5nmo9wrVV4sQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O99@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 228532
+3 _WDTH 1000
+3 _HGHT 648
+2 TITL scan0144
+1 _OID b279bf85-2e04-4cb3-bb2f-8a2d07a3fec6
+1 _CREA 2017-04-04 12:09:29.659
+1 _USER ghfvqVpsg9SvvpXL+P2eEkM1ne4fKhJ6Jz14AUUb2el78yo7eNN8KqWPIqiP0TyPGm2rjYd9mcVfOnFezguu6Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O100@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 138013
+3 _WDTH 960
+3 _HGHT 956
+2 TITL Android Photo
+1 _OID b2d265bb-e78a-42ec-9825-693de149b1e1
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:39:14.263
+1 _USER MkoBk/R58dVMJakrh0vfUXEbQ3vGehPX15/QE6+vZg54PPZCpMZXFkaQNV+iIFQcf4VvcoeweAS/cpAyScV8JQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O101@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 5202011
+3 _WDTH 4640
+3 _HGHT 2610
+2 TITL Android Photo
+1 _OID b37127c1-b5b9-4598-98ba-8a695223ac02
+1 DATE 18 Feb 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-05 15:48:13.162
+1 _USER 2M+Q93KXoH2b/vkovRTa2Loe7Xe/tSCA88VWCBCy6PxHVx3vmH3OJW3+3C9KcBJQua+orVZyneD4XgDTUUP5ZA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O102@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 262033
+3 _WDTH 2048
+3 _HGHT 2048
+2 TITL Android Photo
+1 _OID b42b024d-6720-422c-a608-0647cb85f80d
+1 DATE 18 Nov 2018
+1 _META <metadataxml />
+1 _CREA 2018-11-18 16:24:08.467
+1 _USER XC2GQIFev4zH3p0fOuSsl+7E3L1jm74rl8oT/eQySPpwQPR0iVm2hXDYZg4m9C+liJaV0Oaf79o76fcEcfl+CA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O103@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 84958
+3 _WDTH 463
+3 _HGHT 695
+2 TITL Android Photo
+1 _OID b77c3836-d15e-4649-ba68-ef6630e375f7
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:24:33.991
+1 _USER 3KtiYOcBPyulGf+gvxIk3I1Ek1MOKc4fBLAG56vMZZEv/f6eNAOJ8XV1fgWJYtxohUAmolANR2pgVcLOi//qow==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O104@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 56697
+3 _WDTH 720
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID b8671a5e-96b3-4d77-bc0b-d007cf0a2623
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:10:29.515
+1 _USER +lER0yus6HZKOAtD6aJXvCh7wIQ7gFqIdR194wZ40t0RfXF0a2PShq5h9WjrAdHCiqgwrEOlU+jyrrrjDOHFDA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O105@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2204734
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID b89711b9-b81f-46b7-8334-7a83f5f44784
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 14:40:22.000
+1 _USER fxgkzhbZV0sIHs6DLs60QeG7jXkNyV4dQVMc+W8a6VUu71FF96vNuqVd0g+QcRnYpzqAZNz6x9uFx7mrmNJJFg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O106@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 144530
+3 _WDTH 960
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID b9f15eef-f213-47c5-9dbd-7178562a0ccb
+1 DATE 02 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-02 17:38:17.006
+1 _USER qG2vhY3dTSflp0cHn/bnX6BkMnyS7dYi+Os68+rae6ZLOF1oi/3oNhGWaMw7/jifLDj4arwOMs4SeZde7t4tnw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O107@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 199690
+3 _WDTH 1536
+3 _HGHT 2048
+2 TITL Android Photo
+1 _OID bbe5bc13-e16b-4c11-b5c9-9481f1ca7a2a
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:03:52.699
+1 _USER MFytV53FvkttcddKM4EN9mgXNnsMzGOnBacWLhVcS9Q7wwPXKaPnwQj24zO/UVq8MUvI0rjxH8Yhj96k191mdA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O108@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 54117
+3 _WDTH 257
+3 _HGHT 383
+2 TITL Android Photo
+1 _OID be9e9641-b8c1-4e00-a475-359e4e4e4d9a
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 10:54:12.247
+1 _USER WycqMXWUA3iDpFTGPkrJ36lptkEchbkCqgcIdXhNkcKzyYkncsgXCl2Jk4hs0+QNo66bERGV2yUiLwdXRYb8+A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O109@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 54622
+3 _WDTH 960
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID c4ec4c1c-3d0c-4d43-8bf9-bcbb8dfdb4cd
+1 DATE 06 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-06 06:00:46.598
+1 _USER JX9HnEcNfK0A0cd0dw2+ltKJKuzVnAry0Y2PFFyYgbODbDgJq6azMtrOZg3KweTSBmVNoMEauLJo8Qy6qDFO0w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O110@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 75684
+3 _WDTH 768
+3 _HGHT 1024
+2 TITL Android Photo
+1 _OID c6106eec-f15a-4b7e-8273-52c40da24132
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:12:06.917
+1 _USER JjjkHxaa7xhFxXXOVz9mqiTy42gIrUB2RGM9ym9ts1sVbPd2+cbAAi/+Pw+4yM+ZEEv9rWlbqGx4ogR4ts2Kdg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O111@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 77618
+3 _WDTH 846
+3 _HGHT 1117
+2 TITL Android Photo
+1 _OID c83a1fd3-a914-4468-8f74-946f604dd208
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:35:26.221
+1 _USER lzm63VoEyTESjTfTRBOBMjCmCTCmNLLplwfcf61e6nvA/aopoNfjHNCB1tmhKxOEF1bquRYT2ojzks3pi9nCkg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O112@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2662257
+3 _WDTH 3072
+3 _HGHT 4096
+2 TITL Android Photo
+1 _OID c94ed39e-4c27-4373-a7ec-152ca6ab0dfb
+1 DATE 04 Jun 2023
+1 PLAC Howrah, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2023-06-04 10:29:49.939
+1 _USER 7PIG9O1k4k0iLpEF8KxMICQ+soKgZQlyStN2b+0OWUQp2rJ6yc89TMe4uqTZAjFAH1TCW3Mu+yMcPUoGErwIKA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O113@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 46258
+3 _WDTH 427
+3 _HGHT 306
+2 TITL Android Photo
+1 _OID ca4e7446-205e-449f-8e7a-8d02951a1554
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:05:06.425
+1 _USER ZPzVQ6M03Ruozx8t1YNZN6vX3qHQLA6nW1F2ijnSqQawq5lvui0s/PWLPX35zGs5W0yXHmRFr/Lf5pg3RwSDDQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O114@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 137288
+3 _WDTH 580
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID ca7fca28-79a5-49a1-ba7e-7a60bc3549bb
+1 _META <metadataxml />
+1 _CREA 2019-06-08 17:32:14.000
+1 _USER 0xbyuSNynpFMP0+6rNd1kWN/pnNxDK9azG3SKRFDQJbNtEhlLlb683NwLM0MpLgnv5umbhb79dRdPAziPmO0Gg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O115@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 128503
+3 _WDTH 1365
+3 _HGHT 1365
+2 TITL Android Photo
+1 _OID cb286677-3888-43ae-a730-899b9369d501
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:10:35.448
+1 _USER i2xsMtuKouDJTzyWNUSa9s8yOjMKYXZTsbPScwbdmY983SW51LtOt/I+IyCzjXapShuyoozovkcQt7FYmL359A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O116@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2122909
+3 _WDTH 2610
+3 _HGHT 4640
+2 TITL Android Photo
+1 _OID cbcdca1e-a03a-4f62-bbde-4a2c03449667
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:22:33.140
+1 _USER kKxOk0jdD0P3IQ48urM9wxYy3IefKZ2K8gh3cp2AkP5Ng0VOAKkpaR+lH2pEqbpsqwBaaDZvfqYDiq5HOLzg3A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O117@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 104877
+3 _WDTH 467
+3 _HGHT 767
+2 TITL Android Photo
+1 _OID cbf41035-ebb1-48c0-b70a-3eef5c8c9c6e
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 11:15:50.731
+1 _USER tIZBoTua0Wgqp+SZn3pBayZJcxiAev4svd5vWUQuhJ6wwBSWGRZiNOebNJHtg+T0Ix3WPDO6/1L8WyS/QMOtrQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O118@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 133096
+3 _WDTH 1080
+3 _HGHT 1080
+2 TITL Android Photo
+1 _OID d22b9d8b-a662-4639-a3c2-cf44fe30f6c0
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:46:35.231
+1 _USER gNjiGNQV0V7CTnADcMnQwBe3U58wuoetOZyNhfVtLFHLOqKyJ/xITo24zLNvWyD10R2ykEpduxuqhDfPp97H+A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O119@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 80549
+3 _WDTH 640
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID d3ec165c-5b6f-4feb-8c0c-69a0fc968da5
+1 DATE 05 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-05 02:25:07.648
+1 _USER 78L1eqiEY97mmQaJxtTNm4kPkbCUB6Lc/aWyeWQLny+/m4TCUZYm1mOLfi/e0rpA7wSxE9tSn+XRjj9/9b7cGw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O120@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 45688
+3 _WDTH 540
+3 _HGHT 720
+2 TITL Android Photo
+1 _OID d4c8e491-2de2-416c-ba52-8ec05965413b
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:36:46.803
+1 _USER rWaUobsFxOd4ArTLovXRs4DA45/dAXER/RTZAQgv6k04s/NwHKCICP0wMjgpfHDVTjUTf1wDkX5WMLebNLa35Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O121@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 58359
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID d7e09218-4ec9-49f2-8f3a-827f05540cf2
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:45:49.134
+1 _USER NJLWJrLMd1vj6id9eDEu9YynYEJHuwcLg+rVVECptwLsp+MZpiwfqaRiCFYMXbMt4pIamlNYtxifxT+BOYwzew==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O122@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 84958
+3 _WDTH 463
+3 _HGHT 695
+2 TITL Android Photo
+1 _OID da563ca0-699f-42cb-aae8-9916ff5c3904
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:24:31.704
+1 _USER ZqOeH2s64p6wWMaiwCoJqkXsRbQA6KkEQNQ2+uTqM/Z1t6UdzEVyo0St1hT9crqEEVRIPyue6GO6Rtx62f8cNA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O123@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 56086
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID db1785f1-3fb1-488f-9269-115fe976847d
+1 DATE 05 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-05 15:54:57.468
+1 _USER I7a1fEaFlJ8Xl5Osl+Py2pl9idGCQqcPQqlfNbsSmMTZGSQYPvQuatDHDB2/xD2H3o0BfrWQ9OC9q/NhRnv6Rg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O124@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 118858
+3 _WDTH 780
+3 _HGHT 970
+2 TITL Mr
+1 _OID de6d962c-75b3-4548-8406-a54f0e0701bd
+1 DATE 19 Jan 2022
+1 PLAC Kolkata, West Bengal, India
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:46:42.000
+1 _USER cDXJl9VrviTfXuPwJBxqMR2UMw8Z4ZjpFTfRFfFzn3CJEs5Yig+vVZBFlxg+1jHWEibhxGgUqLLz83JyO9wilw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O125@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 152247
+3 _WDTH 920
+3 _HGHT 630
+2 TITL scan0145
+1 _OID df9c485e-3667-40ef-895b-b740ff072d6f
+1 _CREA 2017-04-04 13:57:29.851
+1 _USER xVHNZTToeJFRY1rN27GEtAypcqX7rLWUDsEsgo2VChBrXIK8Z3+sD0rpDtLPLfmYk0PqkyzuJXygjzZOZhqLlw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O126@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 91885
+3 _WDTH 959
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID dff8c148-690c-42b0-8268-5420020bfa32
+1 DATE 06 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-06 05:58:19.689
+1 _USER SLkoKh5dRmdyP5GVHSW1CSvlLwgUhTodp+esi5lcyfPHpg18hPAZa745mnR3hKTl8CoryDasGvMf9zcwKil1IA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O127@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 106542
+3 _WDTH 956
+3 _HGHT 959
+2 TITL Android Photo
+1 _OID e025cf9d-c887-4429-b12b-d01260cf87d9
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 17:17:59.570
+1 _USER YbUE/hoEra94tv1u+8H2zO+jzwinoIbGZOlVsHXN5ohKJUVNVY32Ty+wVrD87MBkKTMMYEhjcuGsQ0hYBKr3Ew==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O128@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 88907
+3 _WDTH 633
+3 _HGHT 718
+2 TITL Android Photo
+1 _OID e1cf80e8-afc7-4fe6-af16-5af8c949e2a5
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:02:00.171
+1 _USER Pc8BHS5u7xMrT8oa8Ndkm91keGnUd81BV4HAuvc0kPgP0SsTPlovpAfjJtXJloXX3Dt7QgHGnIrtkTy/Vto3Pg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O129@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 252636
+3 _WDTH 1205
+3 _HGHT 850
+2 TITL Friends
+1 _OID e4d5e139-d488-4b59-85f3-5943b5ca1769
+1 _CREA 2017-04-04 12:04:08.064
+1 _USER 6w2dmoYk03jmCCtaauanbA59qnyhbcfA5hswFNS1RSsnBIFCiprZUqJ4V9Auq8FkuMVThoAo2g1PGI345kjUZA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O130@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 777082
+3 _WDTH 1200
+3 _HGHT 1600
+2 TITL Mom1 (1)
+1 _OID e73824f2-61ab-471a-ac82-3fb05c6cadd9
+1 _CREA 2017-04-04 10:38:46.218
+1 _USER 559W5XcP835nDZnsKxlBW0ISosP27wLRs8QH+x6t5KA9alOA/PHG6xIPKxA1IjnUs2c4BgrRvaCE92r6/38axg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O131@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 853018
+3 _WDTH 1063
+3 _HGHT 1600
+2 TITL Mom1 (2)
+1 _OID e7ce1d15-493e-405f-a8b0-586f2a9e4521
+1 _CREA 2017-04-04 10:38:44.894
+1 _USER IGiZaLU7RUhUBAHkMe/Vi4c8Yy4RPNl02irA1V27VCd/apV2dXZJGy+XBXorybXckRZITf+sixPnyBrsEFnqQA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O132@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 1848950
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID e894e5a6-3c8d-4f18-8846-15d552011b4e
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 13:13:47.000
+1 _USER GZxp7eQOyz15qElThRJb2GOdSA7/JCP7J6f8KUL8WCPwNS2bHPnuXsgyZP2OjtP/+IKh0wT2SI7sA48jBq7IFQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O133@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 74838
+3 _WDTH 959
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID e8cb70db-03fd-40ff-aeef-59cfaf77fc38
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:47:45.603
+1 _USER dqaFxTfMKiosqIitB4Dbt8I1twcKgi3VWWgqypZrOxzCGqrga1AqEnqgH2tCafLP7oN/MTVComZ9x9bOtupJ1Q==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O134@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 58359
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID e8d0ddad-d0cd-4e4d-8835-effcdcad1bda
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 15:45:51.884
+1 _USER +5bq+ynwp3J5e74hi1rVuzPuC64xGKYld7tPzoQdKZ3J53YYhBIVTxmGPbPwoSQD2/Zy5YbBDtQZvpIbpDrzEg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O135@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 875218
+3 _WDTH 1063
+3 _HGHT 1600
+2 TITL Indu Chachi
+1 _OID e9120940-cd16-4f21-89c2-e7a3d1ddf985
+1 _CREA 2017-04-04 10:41:19.457
+1 _USER N10M2eYfRbiDt7in7QznI6teuNLVtr8DUj8ivOMWIc9U30AgKrH7l4/HoUgxjBa9p94apiATXvDFeDubAic/yw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O136@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 85098
+3 _WDTH 1432
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID ea2c81ad-b0ef-40fe-adf5-a40d20614836
+1 DATE 03 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-03 14:41:03.292
+1 _USER ZNadgJ6Smj3y1gjV49V/ITUpzEwFNsl9kZ4ldSYUc93pOKESEcM4J3SjY3al5Go0486838syZPO3Yz4VnBnERQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O137@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 52689
+3 _WDTH 600
+3 _HGHT 800
+2 TITL Android Photo
+1 _OID eac381da-def1-42d9-a94c-0288a5235e13
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:42:11.631
+1 _USER jwkgcEKA90etItXqXf2vq2Ag4GjFLFgDONX/Ief5AlluDEm359vsE4BL06tU9YSjl8oslOlynM5SGAqONDtHFQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O138@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 50382
+3 _WDTH 310
+3 _HGHT 366
+2 TITL Android Photo
+1 _OID ebc1bad1-022f-4a93-8a5d-c9fad54c49f4
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 11:46:22.221
+1 _USER cxaSa0f5Nd6vE7+XG12V6vx8ztntXG2ZYBuYwIiWKnK3SIqti/dADDuk6ic8F0pN/CdmDRRaqS1Afupw5Rl84A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O139@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 227837
+3 _WDTH 1080
+3 _HGHT 1920
+2 TITL Android Photo
+1 _OID ec35dd48-80a1-4ac0-849e-6d86e232a9c0
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:15:41.675
+1 _USER mslL0szfD3W3aeNFTNIiQMQYhgocLxCd5MZjaK/pyCtw53exwuyzOx6ks1eGqr/jwEmf8L09iNcIK2f6yRb0TQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O140@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 157639
+3 _WDTH 1050
+3 _HGHT 1374
+2 TITL Miss 
+1 _OID ed40c560-51fa-47b1-9bcd-e237c94eada7
+1 DATE 19 Mar 2026
+1 _META <metadataxml />
+1 _CREA 2026-03-19 13:26:08.075
+1 _USER PbwtrkCSj0GzdcQbbNrRt8R1nRemz79Gpvh0OPNbEJZjpQzp8vp/ySK5zXPsbgQ1up7P608/tVKi/lgCYXLn+A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O141@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2512519
+3 _WDTH 2610
+3 _HGHT 4640
+2 TITL Android Photo
+1 _OID ed46832c-3d68-4966-8e25-820407ef3a3b
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:38:59.398
+1 _USER mQJmzL/Sg/uFKVhEV5mpv5Ehu3ryEdq0K0sgePWzxZDk5i4uJCvwr//7LISg+ygWc5SKJZw2QqDC0gf+2ebPVg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O142@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 72227
+3 _WDTH 359
+3 _HGHT 409
+2 TITL Android Photo
+1 _OID ef44052a-3ae9-420e-b112-5a021da924b8
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 05:30:56.536
+1 _USER QRKpZY2Pa76KkFAb6Ao1B2HhdqGolN+efv2UijPYjB59V4TpiFVkHvQaoyJ54mQqp9y4A4RGHHe1JzmPQrDDDg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O143@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 56697
+3 _WDTH 720
+3 _HGHT 960
+2 TITL Android Photo
+1 _OID ef851d76-0e67-429b-a8a2-b45808440f09
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:09:35.708
+1 _USER OrQ+k0DWsVigqsHOQI30xuyYN6ODH5Co8nryRZ8Y7YyhRvGZo539WlYNiU7TVQ6ncOuE8Nj3SogIqUZniLcNSg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O144@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2128303
+3 _WDTH 2610
+3 _HGHT 4640
+2 TITL Android Photo
+1 _OID f2752dff-383e-49c7-81fa-f546720da7cc
+1 DATE 31 Mar 2017
+1 _META <metadataxml />
+1 _CREA 2017-03-31 16:51:35.818
+1 _USER nISb3XLrJH0DG7x7YFXz/HvXBNu5f9Ne03MTVkXlW/fkzOAg1WU51LTxVF28SNz38LKe2KYFb3cpmJ68hJdEzA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O145@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 2389146
+3 _WDTH 1800
+3 _HGHT 4000
+2 TITL Android Photo
+1 _OID f3779d21-df5d-4484-9e73-7d24886d8e94
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 13:25:16.000
+1 _USER 6ORM8sMUn0zpd5G8Cd2NE+K5FW7bts9eMdAaKp72N+sXrNgkQrDUJD15KKvQy0u7uDw/TiPdvyvncu1dNvlBcQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O146@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 100634
+3 _WDTH 441
+3 _HGHT 513
+2 TITL Android Photo
+1 _OID f3d52327-df3b-4c8c-9ebd-6ef6481370c9
+1 DATE 07 Nov 2021
+1 _META <metadataxml />
+1 _CREA 2021-11-07 08:59:22.000
+1 _USER B8noQW4xOOR70kmCf/WpFSbZst06QbuwVJyX//tcMUHiDQj6riStDKRE+N/hGVu1anS7MaDS+gRXSxKE9EWPuw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O147@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 132209
+3 _WDTH 960
+3 _HGHT 1076
+2 TITL Android Photo
+1 _OID f40296ec-6096-4ef0-afa8-554a8b8943d7
+1 DATE 19 Jan 2022
+1 _META <metadataxml />
+1 _CREA 2022-01-19 15:39:09.000
+1 _USER 6N96SrKgf+G53JljEn16iYxOK1gqdraempF4KjPJIeXYCHrkR9sDpFAZ2lJ2HaVFOW4Zyabn3aSm2iDG4OgqTw==
+2 _ENCR 1
+1 _ORIG u
+1 _MSER
+2 _LKID f40296ec-6096-4ef0-afa8-554a8b8943d7
+1 _ATL Y
+0 @O148@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 103642
+3 _WDTH 960
+3 _HGHT 640
+2 TITL Android Photo
+1 _OID f7aa5480-1dcf-4cfb-ad16-e44ba759249c
+1 DATE 04 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-04 02:09:06.897
+1 _USER XEZG8vhgyXRnyZ+/tUmC+kf7ubDaYeuYR3ZHTHSGsgZV46jZ2n6ZM5IWtKzrQsB56fVn6Lwy3AyC+n4xHPYWDQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O149@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 180240
+3 _WDTH 952
+3 _HGHT 619
+2 TITL scan0158
+1 _OID f96cf2d2-08b8-442c-ac2e-828fdd6d59fb
+1 _CREA 2017-04-04 13:55:48.028
+1 _USER 2elW499ymf0IDdXU/z1X8jkPHAznvLW5Yvps71mTCki/HcP6/9JXHS0s4F28AIF34P6zc5i/spU4PK6PQ2iMvw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O150@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 127047
+3 _WDTH 784
+3 _HGHT 820
+2 TITL Android Photo
+1 _OID fafbb19a-04c9-43a8-9da4-41c00aaf17f4
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 11:01:26.454
+1 _USER HhZwBnFfx6/K2+dL98J7cOvP7YC0jIIhKZSN7YsZgTOftRbWTaVgOWqmT0ICSxioE+ulXv3MeFjelV8S1Z8paQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O151@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 81942
+3 _WDTH 800
+3 _HGHT 800
+2 TITL Android Photo
+1 _OID fda00b2d-c1db-4ab7-be95-fbd69dac59c1
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 12:41:53.237
+1 _USER 7YYb3npYcFtFDvPYsiVqRT8tCve+wL3r8HtIqZ0zvD3P4flNeFx4h0pVxqXG/OJFHl8fkHhjWCJedkLmjnP2+g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O152@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 199690
+3 _WDTH 1536
+3 _HGHT 2048
+2 TITL Android Photo
+1 _OID ffabc3e6-9f10-49ad-9c3e-b0853645ed2e
+1 DATE 01 Apr 2017
+1 _META <metadataxml />
+1 _CREA 2017-04-01 14:04:14.882
+1 _USER mCPw1ZR//8TMX/n5L5q4AeI0+lZsswbV713f44Dukmi/IOP5vuaNHgSYCAidSpp36w5DtVcAtQZbKdQgsvlIoA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @S_929908117@ SOUR
+1 TITL Facebook
+1 PUBL Facebook
+2 PLAC http://www.facebook.com/
+1 REPO @R_1293261057@
+0 @R_1293261057@ REPO
+1 NAME Facebook
+0 TRLR
